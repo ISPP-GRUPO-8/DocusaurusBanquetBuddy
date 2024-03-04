@@ -18,10 +18,15 @@ const sidebars = {
   docsSidebar: [
     'CommitmentAgreement',
     'gestionCodigo',
+    'entregable-1/acuerdoPrivacidadRegistroING',
     {
       type: 'category',
       label: 'Entregable 1',
-      items: ['entregable-1/definicionClientes', 'clockify/Graphs', 'clockify/Total', 'clockify/Subgroups'],
+      items: ['entregable-1/definicionClientes','entregable-1/definicionIdeaNegocio','entregable-1/definicionTipoNegocio',
+       'entregable-1/herramientasSoporteDesarrollo', 'entregable-1/herramientasAnalisisCodigo',
+       'entregable-1/discusionInnovacionTenologica', 'entregable-1/medicionesAportadoPorEquipos',
+      'entregable-1/planMejoraCalidad','entregable-1/metodologiaAnalisisCompetidores','entregable-1/analisis',
+       'entregable-1/scrum', 'entregable-1/casosUso', 'entregable-1/reporteTecnologiaUsada', 'entregable-1/SWOTyPESTLE', 'entregable-1/usoIA', 'entregable-1/pilotos'],
               
     },
 
@@ -34,7 +39,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Actas de reuniones',
-      items: ['clockify/Graphs', 'clockify/Total', 'clockify/Subgroups'],
+      items: ['actas/02-02-2024', 'actas/15-02-2024', 'actas/18-02-2024', 'actas/21-02-2024'],
               
     },
 

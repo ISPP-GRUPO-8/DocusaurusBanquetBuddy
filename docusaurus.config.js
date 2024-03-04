@@ -79,14 +79,13 @@ const config = {
             label: 'Documentos',
           },
           {
-            to: '/orgInterna',
-            sidebarId: 'orgIntSidebar',
+            to: 'docs/orgInterna',
             position: 'left',
             label: 'Organización interna',
           },
           {to: '/blog', label: 'Comentarios', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/ISPP-GRUPO-8/BANQUETBUDDY',
             label: 'GitHub',
             position: 'right',
           },
