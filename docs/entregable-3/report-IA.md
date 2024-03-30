@@ -71,7 +71,7 @@ ChatGPT:
 - 
   - Enlace:
 
-<https://chat.openai.com/share/7bab1e2b-aaa1-4854-b4de-5b1bce5453ea>
+https://chat.openai.com/share/7bab1e2b-aaa1-4854-b4de-5b1bce5453ea
 
 # _Subgrupo 2_
 
@@ -91,7 +91,7 @@ Chat GPT:
 - "Tengo una aplicación de django para contratar caterings, como puedo implementar que un usuario reciba notificaciones dentro de la web cuando un evento en el que se ha contratado un catering este a menos de una semana de ocurrir"
 
   - Enlace:
-  [<https://chat.openai.com/c/034afdfe-c7cc-4297-a9d3-0109928b07d4>](https://chat.openai.com/c/18246d1d-0c06-4dd2-9324-e3e8d46ca30e)
+  https://chat.openai.com/c/034afdfe-c7cc-4297-a9d3-0109928b07d4
 
 - "Genera tests de django para la siguiente funcionalidad:"
 
