@@ -36,6 +36,14 @@ const sidebars = {
       items: ['clockify/Reports', 'clockify/Graphs', 'clockify/Total', 'clockify/Subgroups'],
               
     },
+
+    {
+      type: 'category',
+      label: 'Entregable 3',
+      items: ['entregable-3/PerformanceEvaluation', 'entregable-3/report-IA'],
+              
+    },
+    
     {
       type: 'category',
       label: 'Actas de reuniones',
