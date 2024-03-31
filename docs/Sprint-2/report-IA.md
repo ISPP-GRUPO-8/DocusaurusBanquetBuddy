@@ -81,6 +81,16 @@ ChatGPT:
   - Enlace:
   https://chat.openai.com/share/9b46ff2f-2421-4201-a3cd-ce9ffc5e8d68
 
+- "Error en archivo urls.py"
+
+  - Enlace:
+  https://chat.openai.com/share/d71fe553-219f-49af-b32f-7ba290695da3
+
+- "Mensaje de commit siguiendo conventional commits"
+
+  - Enlace:
+  https://chat.openai.com/share/8fbceed9-70b8-464b-8275-9cebc8720168
+
 
 # _Subgrupo 2_
 
