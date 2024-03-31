@@ -1,30 +1,75 @@
 ---
-sidebar_label: 'Usuarios piloto '
+sidebar_label: 'Usuarios piloto(pilots.md)'
 sidebar_position: 3
 ---
+
+
+| **Fecha** | **Versión** |
+| --- | --- |
+|     |     |
+| --- | --- |
+| 17/02/2024 | 2.2 |
+| --- | --- |
 
 | **Grupo de prácticas: 8** |
 | --- |
 | Alberto Benitez Morales |
+| --- |
 | Álvaro Carrera Bernal |
+| --- |
 | Álvaro Navarro Rivera |
+| --- |
 | Álvaro Jose Sanchez Flores |
+| --- |
 | Artemio Rodriguez Asensio |
+| --- |
 | Eduardo de Bustamante Lucena |
+| --- |
 | Fernando Barroso Barroso |
+| --- |
 | Francisco Jose Vargas Castro |
+| --- |
 | Gonzalo Santigo Martín |
+| --- |
 | Guillermo Alonso Pacheco Rodrigues |
+| --- |
 | Jaime Caballero Hernandez |
+| --- |
 | Javier Nunes Ruiz |
+| --- |
 | Javier Rodríguez Cordero |
+| --- |
 | Juan Martínez Cano |
+| --- |
 | Marco Antonio Roca Rodríguez |
+| --- |
 | Mario Sanchez Naranjo |
+| --- |
 | Pablo Martínez Valladares |
+| --- |
 
+**Control de Versiones**
 
-**Usuarios Piloto**
+| **Fecha** | **Versión** | **Descripción** |
+| --- | --- | --- |
+| 04/02/2024 | 1.0 | Redacción de usuarios piloto potenciales |
+| --- | --- | --- |
+| 10/02/2024 | 1.1 | Redacción de gestión de usuarios piloto y usuarios concretos |
+| --- | --- | --- |
+| 04/03/2024 | 2.0 | Actualización con la documentación del Sprint 1 |
+| --- | --- | --- |
+| 11/03/2024 | 2.1 | Nueva fecha para la primera prueba |
+| --- | --- | --- |
+| 23/03/2024 | 2.2 | Nueva fecha para la primera prueba |
+| --- | --- | --- |
+| 30/03/2024 | 2.3 | Añadido Calendario para concertar cita con usuarios piloto |
+| --- | --- | --- |
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+| --- | --- | --- |
 
 # **1.Usuario piloto potenciales**
 
@@ -103,11 +148,10 @@ Sin experiencia
 
 Las fechas planteadas para que los usuarios piloto prueben la aplicación serán:
 
-- Del 23 al 30 de abril: primera prueba con usuarios piloto
-
-(Al lanzar la aplicación, 1 semana de prueba
-
-- Del 7 al 14 de Mayo: Segunda prueba de usuarios piloto tras el feedback
+- Del 23 al 29 de marzo: primera prueba con usuarios piloto.
+- Del 12 al 22 de abril: segunda prueba con usuarios piloto.
+- Del 3 al 5 de Mayo: cuarta prueba de usuarios piloto tras el feedback,
+- Del 14 al 18 de Mayo: última prueba de usuarios piloto.
 
 ## Encuestas
 
@@ -210,3 +254,7 @@ Estas respuestas las mediremos cada una en específico:
 | --- | --- |
 
 Para finalizar se deja una sección de comentarios para que el usuario pueda dar feedback más concreto para mejorar la aplicación.
+
+# **7.Calendario para citas con usuarios piloto**
+
+[link](https://calendar.app.google/r16nq6VXKcrhVC137)

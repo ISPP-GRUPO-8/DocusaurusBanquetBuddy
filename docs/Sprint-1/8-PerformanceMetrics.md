@@ -1,3 +1,28 @@
+---
+sidebar_label: 'Métricas de rendimiento '
+sidebar_position: 3
+---
+
+| **Grupo de prácticas: 8** |
+| --- |
+| Alberto Benitez Morales |
+| Álvaro Carrera Bernal |
+| Álvaro Navarro Rivera |
+| Álvaro Jose Sanchez Flores |
+| Artemio Rodriguez Asensio |
+| Eduardo de Bustamante Lucena |
+| Fernando Barroso Barroso |
+| Francisco Jose Vargas Castro |
+| Gonzalo Santigo Martín |
+| Guillermo Alonso Pacheco Rodrigues |
+| Jaime Caballero Hernandez |
+| Javier Nunes Ruiz |
+| Javier Rodríguez Cordero |
+| Juan Martínez Cano |
+| Marco Antonio Roca Rodríguez |
+| Mario Sanchez Naranjo |
+| Pablo Martínez Valladares |
+
 # Métricas de rendimiento
 
 # **Introducción**
@@ -132,7 +157,7 @@ Tareas a realizar por el Subgrupo 3:
 
 | ID  | Tarea | Fecha Estimada de Finalización | Fecha de Finalización Real | Tiempo empleado | Problemas encontrados durante el desarrollo |
 | --- | --- | --- | --- | --- | --- |
-| R-000 | Modelado Conceptual | 25/02/2024 | 28/02/2024 |     | Faltan requisitos.<br><br>Falta de simplificación de los requisitos. |
+| R-000 | Modelado Conceptual | 25/02/2024 | 28/02/2024 |     | Faltan requisitos.<br></br>Falta de simplificación de los requisitos. |
 | --- | --- | --- | --- | --- | --- |
 | F-011 | Usuarios Pilotos | 26/02/2024 | 25/02/2024 | 01:57:59 | No aplica |
 | --- | --- | --- | --- | --- | --- |
@@ -283,11 +308,11 @@ Donde:
 
 |     | **Integrantes** | **Nota del grupo** |
 | --- | --- | --- |
-| Subgrupo 1 | Álvaro Carrera Bernal<br><br>Eduardo de Bustamante Lucena<br><br>Juan Martínez Cano<br><br>Guillermo Alonso Pacheco Rodrigues<br><br>Javier Rodríguez Cordero | 8   |
+| Subgrupo 1 | Álvaro Carrera Bernal<br></br>Eduardo de Bustamante Lucena<br></br>Juan Martínez Cano<br></br>Guillermo Alonso Pacheco Rodrigues<br></br>Javier Rodríguez Cordero | 8   |
 | --- | --- | --- |
-| Subgrupo 2 | Francisco José Vargas Castro<br><br>Alberto Benitez Morales<br><br>Marco Antonio Roca Rodríguez<br><br>Javier Nunes Ruiz | 9   |
+| Subgrupo 2 | Francisco José Vargas Castro<br></br>Alberto Benitez Morales<br></br>Marco Antonio Roca Rodríguez<br></br>Javier Nunes Ruiz | 9   |
 | --- | --- | --- |
-| Subgrupo 3 | Álvaro Navarro Rivera<br><br>Artemio Rodriguez Asensio<br><br>Mario Sanchez Naranjo<br><br>Pablo Martínez Valladares |     |
+| Subgrupo 3 | Álvaro Navarro Rivera<br></br>Artemio Rodriguez Asensio<br></br>Mario Sanchez Naranjo<br></br>Pablo Martínez Valladares |     |
 | --- | --- | --- |
-| Subgrupo 4 | Jaime Caballero Hernández<br><br>Fernando Barroso Barroso<br><br>Álvaro José Sánchez Flores<br><br>Gonzalo Santiago Martín | 8   |
+| Subgrupo 4 | Jaime Caballero Hernández<br></br>Fernando Barroso Barroso<br></br>Álvaro José Sánchez Flores<br></br>Gonzalo Santiago Martín | 8   |
 | --- | --- | --- |

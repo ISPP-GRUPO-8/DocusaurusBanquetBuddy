@@ -1,3 +1,28 @@
+---
+sidebar_label: 'Guía de revisión de Software'
+sidebar_position: 3
+---
+
+| **Grupo de prácticas: 8** |
+| --- |
+| Alberto Benitez Morales |
+| Álvaro Carrera Bernal |
+| Álvaro Navarro Rivera |
+| Álvaro Jose Sanchez Flores |
+| Artemio Rodriguez Asensio |
+| Eduardo de Bustamante Lucena |
+| Fernando Barroso Barroso |
+| Francisco Jose Vargas Castro |
+| Gonzalo Santigo Martín |
+| Guillermo Alonso Pacheco Rodrigues |
+| Jaime Caballero Hernandez |
+| Javier Nunes Ruiz |
+| Javier Rodríguez Cordero |
+| Juan Martínez Cano |
+| Marco Antonio Roca Rodríguez |
+| Mario Sanchez Naranjo |
+| Pablo Martínez Valladares |
+
 **Software Review guidelines**
 
 # **Instrucción de casos de uso**
@@ -123,13 +148,13 @@ Debe dirigirle a la siguiente página:
 
 ## **URL de Landing page:**
 
-<https://ispp-grupo-8.github.io/banquetbuddy.landing-page/>
+[link](https://ispp-grupo-8.github.io/banquetbuddy.landing-page/)
 
 ## **Credenciales:**
 
 **ADMINISTRADOR**
 
-DIRIGIRSE A LA URL <https://banquetbuddy.pythonanywhere.com/admin/login/?next=/admin>
+DIRIGIRSE A LA URL [link](https://banquetbuddy.pythonanywhere.com/admin/login/?next=/admin)
 
 - Usuario:admin
 - Contraseña:admin
@@ -180,7 +205,7 @@ Contraseña: catCat387
 
 **Herramienta tracking:**
 
-- <http://dashboard.bluejay.governify.io/dashboard/script/dashboardLoader.js?dashboardURL=https://reporter.bluejay.governify.io/api/v4/dashboards/tpa-ISPP-2024-GH-ISPP-GRUPO-8_BANQUETBUDDY/main>
+- [link](http://dashboard.bluejay.governify.io/dashboard/script/dashboardLoader.js?dashboardURL=https://reporter.bluejay.governify.io/api/v4/dashboards/tpa-ISPP-2024-GH-ISPP-GRUPO-8_BANQUETBUDDY/main)
 
 Credenciales:
 

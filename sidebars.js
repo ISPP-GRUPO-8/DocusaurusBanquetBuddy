@@ -18,15 +18,28 @@ const sidebars = {
   docsSidebar: [
     'CommitmentAgreement',
     'gestionCodigo',
-    'entregable-1/acuerdoPrivacidadRegistroING',
+    'Devising a Project/acuerdoPrivacidadRegistroING',
     {
       type: 'category',
-      label: 'Entregable 1',
-      items: ['entregable-1/definicionClientes','entregable-1/definicionIdeaNegocio','entregable-1/definicionTipoNegocio',
-       'entregable-1/herramientasSoporteDesarrollo', 'entregable-1/herramientasAnalisisCodigo',
-       'entregable-1/discusionInnovacionTenologica', 'entregable-1/medicionesAportadoPorEquipos',
-      'entregable-1/planMejoraCalidad','entregable-1/metodologiaAnalisisCompetidores','entregable-1/analisis',
-       'entregable-1/scrum', 'entregable-1/casosUso', 'entregable-1/reporteTecnologiaUsada', 'entregable-1/SWOTyPESTLE', 'entregable-1/usoIA', 'entregable-1/pilotos'],
+      label: 'Devising a Project',
+      items: ['Devising a Project/definicionClientes','Devising a Project/definicionIdeaNegocio','Devising a Project/definicionTipoNegocio',
+       'Devising a Project/herramientasSoporteDesarrollo', 'Devising a Project/herramientasAnalisisCodigo',
+       'Devising a Project/discusionInnovacionTenologica', 'Devising a Project/medicionesAportadoPorEquipos',
+      'Devising a Project/planMejoraCalidad','Devising a Project/metodologiaAnalisisCompetidores','Devising a Project/analisis',
+       'Devising a Project/scrum', 'Devising a Project/casosUso', 'Devising a Project/reporteTecnologiaUsada', 'Devising a Project/SWOTyPESTLE', 
+       'Devising a Project/usoIA', 'Devising a Project/pilotos'],
+              
+    },
+
+    {
+      type: 'category',
+      label: 'Sprint-1',
+      items: ['Sprint-1/CostAnalisys','Sprint-1/CustomerAgreement','Sprint-1/GitHubTaskAssignment',
+       'Sprint-1/PerformanceMetrics', 'Sprint-1/PerformanceEvaluation',
+       'Sprint-1/Pilots', 'Sprint-1/Presentacion',
+      'Sprint-1/Revision','Sprint-1/BusinessIdeaConcepts','Sprint-1/report',
+       'Sprint-1/QualityMetrics', 'Sprint-1/RiskAnalysis', 'Sprint-1/TaskReviewProcess', 'Sprint-1/TestingProcedure', 
+       'Sprint-1/Time-Effort-report','Sprint-1/AI-usage'],
               
     },
 
@@ -39,8 +52,9 @@ const sidebars = {
 
     {
       type: 'category',
-      label: 'Entregable 3',
-      items: ['entregable-3/PerformanceEvaluation', 'entregable-3/report-IA'],
+      label: 'Sprint 2',
+      items: ['Sprint-2/PerformanceEvaluation', 'Sprint-2/report-IA','Sprint-2/Cost-analysis',
+      'Sprint-2/pilots_contract','Sprint-2/pilots_morning_contract', 'Sprint-2/pilots',],
               
     },
     

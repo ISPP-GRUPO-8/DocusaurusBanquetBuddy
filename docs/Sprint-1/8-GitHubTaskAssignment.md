@@ -1,3 +1,28 @@
+---
+sidebar_label: 'Asignación de tareas de Github'
+sidebar_position: 3
+---
+
+| **Grupo de prácticas: 8** |
+| --- |
+| Alberto Benitez Morales |
+| Álvaro Carrera Bernal |
+| Álvaro Navarro Rivera |
+| Álvaro Jose Sanchez Flores |
+| Artemio Rodriguez Asensio |
+| Eduardo de Bustamante Lucena |
+| Fernando Barroso Barroso |
+| Francisco Jose Vargas Castro |
+| Gonzalo Santigo Martín |
+| Guillermo Alonso Pacheco Rodrigues |
+| Jaime Caballero Hernandez |
+| Javier Nunes Ruiz |
+| Javier Rodríguez Cordero |
+| Juan Martínez Cano |
+| Marco Antonio Roca Rodríguez |
+| Mario Sanchez Naranjo |
+| Pablo Martínez Valladares |
+
 **Asignación de tareas de GitHub**
 
 ## Introducción
@@ -15,7 +40,7 @@ Durante la sesión de Planning Poker, cada miembro del equipo elige en privado u
 
 Una vez que el equipo llega a un consenso sobre la estimación final para la tarea durante la sesión de Planning Poker, esta se registra en el backlog del proyecto para su seguimiento y planificación. Además, se tiene la opción de registrar las diferentes estimaciones proporcionadas por cada miembro del equipo, lo que permite mantener un historial de las decisiones tomadas y proporciona insights sobre la variabilidad en las percepciones de esfuerzo o tamaño de las tareas. Esto puede ser útil para futuras evaluaciones y para mejorar la precisión en las estimaciones de proyectos posteriores.
 
-Para la estimación poker haremos uso de la siguiente página web: <https://www.scrumpoker-online.org/es/>
+Para la estimación poker haremos uso de la siguiente página web: [link](https://www.scrumpoker-online.org/es/)
 
 ## Etiquetas utilizadas
 
