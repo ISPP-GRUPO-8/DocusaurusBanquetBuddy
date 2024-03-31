@@ -25,13 +25,13 @@ sidebar_position: 3
 
 # Métricas de rendimiento
 
-# **Introducción**
+## **Introducción**
 
 En este documento, se presenta un conjunto de métricas que se irán refinando cada semana hasta encontrar la mejor fórmula que nos lleve a una medición de la productividad óptima.
 
-# **SEMANA 1 SPRINT 1**
+## **SEMANA 1 SPRINT 1**
 
-## Métricas seleccionadas
+### Métricas seleccionadas
 
 Las métricas que utilizaremos para medir el desempeño de los miembros del grupo son las siguientes:
 
@@ -233,9 +233,9 @@ A continuación analizaremos los resultados obtenidos:
 - Calidad del trabajo: Como todas las tareas han sido entregadas de manera satisfactoria sin la presencia de errores la nota correspondiente para los miembros del subgrupo es A\*.
 - Gestión de la comunicación: El subgrupo ha presentado problemas en la comunicación, lo que resultó en un reparto desequilibrado de tareas y por ello consideramos que la nota C es la que más se ajusta para los miembros del subgrupo.
 
-# **SEMANA 2 SPRINT 1**
+## **SEMANA 2 SPRINT 1**
 
-## **Métricas de rendimiento individuales**
+### **Métricas de rendimiento individuales**
 
 Para medir el rendimiento de los integrantes del grupo, hemos decidido utilizar la siguiente fórmula:
 
@@ -252,7 +252,7 @@ Donde:
 
 De esta ecuación obtendremos una nota sobre 10.
 
-## **Métricas de rendimiento Grupales**
+### **Métricas de rendimiento Grupales**
 
 Para medir el rendimiento grupal realizaremos una media de las métricas individuales:
 

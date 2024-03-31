@@ -23,7 +23,7 @@ sidebar_position: 3
 | Mario Sanchez Naranjo |
 | Pablo Martínez Valladares |
 
-**Customer Agreement**
+# Customer Agreement
 
 **Acuerdo del Cliente**
 
