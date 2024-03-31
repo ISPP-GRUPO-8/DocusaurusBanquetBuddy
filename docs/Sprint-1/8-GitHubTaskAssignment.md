@@ -1,4 +1,8 @@
-**Asignación de tareas de GitHub**
+---
+sidebar_label: 'Asignación de tareas de GitHub'
+sidebar_position: 3
+---
+# Asignación de tareas de GitHub**
 
 ## Introducción
 

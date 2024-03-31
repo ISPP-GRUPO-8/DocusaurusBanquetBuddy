@@ -1,5 +1,9 @@
+---
+sidebar_label: 'Customer Agreement'
+sidebar_position: 3
+---
 
-**Customer Agreement**
+# Customer Agreement
 
 **Acuerdo del Cliente**
 

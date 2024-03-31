@@ -1,4 +1,9 @@
-**Individual Performance Evaluation**
+---
+sidebar_label: 'Individual Performance Evaluation'
+sidebar_position: 3
+---
+
+# Individual Performance Evaluation**
 
 ISPP 2023-2024
 

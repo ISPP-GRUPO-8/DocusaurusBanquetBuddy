@@ -1,4 +1,9 @@
-**Análisis de costes y beneficios**
+---
+sidebar_label: 'Análisis de costes y beneficios'
+sidebar_position: 3
+---
+
+# Análisis de costes y beneficios
 
 **Introducción**
 

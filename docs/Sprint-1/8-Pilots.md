@@ -1,4 +1,8 @@
-**Usuarios Piloto**
+---
+sidebar_label: 'Usuarios Piloto'
+sidebar_position: 3
+---
+# Usuarios Piloto
 
 # **1.Usuario piloto potenciales**
 

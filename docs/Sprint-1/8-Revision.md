@@ -1,4 +1,9 @@
-**Software Review guidelines**
+---
+sidebar_label: 'Software Review guidelines'
+sidebar_position: 3
+---
+
+# Software Review guidelines
 
 # **Instrucción de casos de uso**
 
