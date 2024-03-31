@@ -59,7 +59,7 @@ Curso 2023 – 2024
 
 | **IA Utilizada** | **Para qué la hemos utilizado** | **Nº de conversaciones** | **Tiempo utilización** |
 | --- | --- | --- | --- |
-| ChatGPT | |     |     |
+| ChatGPT | Se ha utilizado chatgpt para facilitar tareas de programación como restricciones, creacion de test etc... |  3   | 15 min |
 | --- | --- | --- | --- |
 | Gemini |  |     |     |
 | --- | --- | --- | --- |
@@ -68,10 +68,19 @@ Curso 2023 – 2024
 
 ChatGPT:
 
-- 
-  - Enlace:
+- "si tengo un queryset de task como accedo a los employees"
+  - Enlace: https://chat.openai.com/share/b2137133-05fb-4e50-9a7a-7453d1a8db15
 
-https://chat.openai.com/share/7bab1e2b-aaa1-4854-b4de-5b1bce5453ea
+- "Cual es el error del test"
+
+  - Enlace:
+  https://chat.openai.com/share/a3796546-269c-447e-88a4-8b353abe71f9
+
+- "Que atributos deberia tener una carta de recomendacion en python django"
+
+  - Enlace:
+  https://chat.openai.com/share/9b46ff2f-2421-4201-a3cd-ce9ffc5e8d68
+
 
 # _Subgrupo 2_
 
