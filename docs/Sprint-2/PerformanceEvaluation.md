@@ -75,9 +75,9 @@ Date: \_**\_04/03/2024_\_**
 
 Individual Contribution Summary
 
-## Devising a Project (#DP)
+## **Devising a Project (#DP)**
 
-## VARGAS CASTRO, FRANCISCO JOSÉ
+### VARGAS CASTRO, FRANCISCO JOSÉ
 
 - Definición de casos de uso
 - Análisis de competidores Total Party Planner
@@ -90,7 +90,7 @@ Individual Contribution Summary
 - Revisión documento herramientas para análisis del código
 - Guión presentación 3
 
-## NAVARRO RIVERA, ÁLVARO
+### NAVARRO RIVERA, ÁLVARO
 
 - Análisis de competidores Party
 - Definición de usuarios piloto
@@ -103,7 +103,7 @@ Individual Contribution Summary
 - Preparación de documentación para la primera entrega
 - Revisión de metodología de desarrollo Scrum
 
-## SÁNCHEZ NARANJO,MARIO
+### SÁNCHEZ NARANJO,MARIO
 
 - Análisis de competidores Infojobs,Linkedin,Facebook,Turijobs,Mil anuncios,Jooble,Indeed,Turijobs,JobSora
 - Hacer parte de presentación 2
@@ -116,7 +116,7 @@ Individual Contribution Summary
 - Preparación de documentación para la primera entrega
 - Redacción de documentos de feedback
 
-## MARTÍNEZ VALLADARES, PABLO
+### MARTÍNEZ VALLADARES, PABLO
 
 - Definición de casos de uso Partfy
 - Preparación del guión de la presentación 2
@@ -127,7 +127,7 @@ Individual Contribution Summary
 - Corrección en documento de discusión de innovación tecnológica
 - Revisión de la metodología de desarrollo
 
-## BUSTAMANTE LUCENA, EDUARDO
+### BUSTAMANTE LUCENA, EDUARDO
 
 - Revisión de casos de uso.
 - Realización de la matriz DAFO.
@@ -142,7 +142,7 @@ Individual Contribution Summary
 - Revisión del guión de la presentación semana 3.
 - Realización Product Backlog Semana 1.
 
-## RODRÍGUEZ CORDERO, JAVIER
+### RODRÍGUEZ CORDERO, JAVIER
 
 - Revisión de casos de uso.
 - Identificación y definición de tipos de clientes.
@@ -155,7 +155,7 @@ Individual Contribution Summary
 - Reunión de planificación para la división en la elicitación de requisitos.
 - Revisión del Commitment Agreement.
 
-## CARRERA BERNAL, ÁLVARO
+### CARRERA BERNAL, ÁLVARO
 
 - Revisión de análisis de competidores.
 - Revisión de casos de uso.
@@ -169,9 +169,8 @@ Individual Contribution Summary
 - Realización Sprint Planning.
 - Realización del documento Sprint 1-3. Product Backlog.
 
-##
 
-## PACHECO RODRIGUES, GUILLERMO ALONSO
+### PACHECO RODRIGUES, GUILLERMO ALONSO
 
 - Análisis de competidores GoFrugal
 - Análisis PESTLE
@@ -181,7 +180,7 @@ Individual Contribution Summary
 - Hacer parte de las presentaciones 1 y 2
 - Consolidación de documentos de casos de uso
 
-## MARTÍNEZ CANO, JUAN
+### MARTÍNEZ CANO, JUAN
 
 - Identificación y definición de tipos de clientes.
 - Definición de casos de uso.
@@ -192,7 +191,7 @@ Individual Contribution Summary
 - Revisión del documento de la gestión del código.
 - Revisión de la matriz DAFO.
 
-## ROCA RODRÍGUEZ, MARCO ANTONIO
+### ROCA RODRÍGUEZ, MARCO ANTONIO
 
 - Análisis de competidor
 - Definición tipo de negocio
@@ -203,7 +202,7 @@ Individual Contribution Summary
 - Reunión de coordinadores semana 2
 - Creación del Product Backlog de la semana 2
 
-## CABALLERO HERNÁNDEZ, JAIME
+### CABALLERO HERNÁNDEZ, JAIME
 
 - Definición de casos de uso
 - Análisis de competidores Parker Solutions-Catering ERP
@@ -215,7 +214,7 @@ Individual Contribution Summary
 - Informe de Proceso Mejora Calidad
 - División de los equipos de trabajo
 
-## BARROSO BARROSO, FERNANDO
+### BARROSO BARROSO, FERNANDO
 
 - Análisis de competidores Parker Solutions-Catering ERP
 - Revisión del guión de la presentación DP
@@ -227,7 +226,7 @@ Individual Contribution Summary
 - Planificación de los sprints
 - Redacción del report IA subgrupo 4
 
-## SANCHEZ FLORES, ALVARO JOSE
+### SANCHEZ FLORES, ALVARO JOSE
 
 - Definición de casos de uso
 - Análisis de competidores Parker Solutions-Catering ERP
@@ -239,7 +238,7 @@ Individual Contribution Summary
 - Informe de Proceso Mejora Calidad
 - División de los equipos de trabajo
 
-## SANTIAGO MARTÍN, GONZALO
+### SANTIAGO MARTÍN, GONZALO
 
 - Análisis de competidores Parker Solutions-Catering ERP.
 - Definición de casos de uso.
@@ -249,7 +248,7 @@ Individual Contribution Summary
 - Realizar presentación semanas 1, 2, 3.
 - División de los equipos de trabajo.
 
-## NUNES RUIZ, JAVIER
+### NUNES RUIZ, JAVIER
 
 - Definición de casos de uso
 - Análisis de competidores Total Party Planner
@@ -263,7 +262,7 @@ Individual Contribution Summary
 - Mediciones de lo aportado por cada equipo
 - Gráficos de línea
 
-## Benítez Morales, Alberto
+### Benítez Morales, Alberto
 
 - Definición de casos de uso
 - Análisis de competidores: Total Party Planner
@@ -276,7 +275,7 @@ Individual Contribution Summary
 - Desarrollo de diapositivas semana 1
 - Definición de requisitos semana 3
 
-## Rodrígues Asensio, Artemio
+### Rodrígues Asensio, Artemio
 
 - Coordinación del subgrupo 3: asistencia a las reuniones de coordinadores de todos los subgrupos(una vez a la semana) y organización de mi subgrupo(Semana 1-3)
 - Análisis de los posibles usuarios piloto(Semana 1)
@@ -296,9 +295,9 @@ Individual Contribution Summary
 
 
 
-## Sprint 1 (#S1)
+## **Sprint 1 (#S1)**
 
-## Vargas Castro, Francisco José
+### Vargas Castro, Francisco José
 
 - Creación del guión de la presentación, todas las semanas
 - Realización de la presentación en clase
@@ -313,7 +312,7 @@ Individual Contribution Summary
 - Revisión del script para poblar la base de datos
 - Tareas de coordinación para el subgrupo 2
 
-## Sánchez Naranjo, Mario
+### Sánchez Naranjo, Mario
 
 - Creación del modelo conceptual y relacional con Artemio
 - Redacción de métricas de Acoplamiento y Cohesión de código junto a Pablo
@@ -323,7 +322,7 @@ Individual Contribution Summary
 - Revisión de la creación de tablas de la base de datos
 - Anotación de feedback en clase
 
-## Pacheco Rodrigues, Guillermo Alonso
+### Pacheco Rodrigues, Guillermo Alonso
 
 - Página de inicio de la aplicación
 - Barra de navegación de la aplicación
@@ -335,7 +334,7 @@ Individual Contribution Summary
 - Revisión de la página de perfil de usuario
 - Presentación de la semana 5
 
-## Martínez Cano, Juan
+### Martínez Cano, Juan
 
 - Revisión del documento gestión del código.
 - Actualización del documento de Análisis de Riesgos.
@@ -350,7 +349,7 @@ Individual Contribution Summary
 - Actualización del Customer Agreement.
 - Documento con el procedimiento de revisión de tareas.
 
-## Carrera Bernal, Álvaro
+### Carrera Bernal, Álvaro
 
 - Revisión del documento gestión del código.
 - Revisión de las fotos de los miembros del grupo.
@@ -368,7 +367,7 @@ Individual Contribution Summary
 - Revisión tarea editar perfil de usuario.
 - Actualización del Customer Agreement.
 
-## Rodríguez Cordero, Javier
+### Rodríguez Cordero, Javier
 
 - Revisión de la presentación de Sprint 1 Semana 1.
 - Desarrollo de las Métricas de Rendimiento (Semana 1).
@@ -385,7 +384,7 @@ Individual Contribution Summary
 - Revisión de la Edición del Perfil.
 - Actualización del Customer Agreement.
 
-## Sánchez Flores, Álvaro José
+### Sánchez Flores, Álvaro José
 
 - Presentación semana 4
 - Análisis de costes y TCO
@@ -398,7 +397,7 @@ Individual Contribution Summary
 - Revisión bug página de inicio de la aplicación
 - Despliegue de la aplicación
 
-## Caballero Hernández, Jaime
+### Caballero Hernández, Jaime
 
 - Presentación semana 4
 - Análisis de costes y TCO
@@ -407,7 +406,7 @@ Individual Contribution Summary
 - Revisión de pull request de la página aboutUs
 - Revisión documentos subgrupo 1
 
-## Barroso Barroso, Fernando
+### Barroso Barroso, Fernando
 
 - Reunión para el sprint planning
 - Matriz de disponibilidad
@@ -419,7 +418,7 @@ Individual Contribution Summary
 - Revisión de las pull request del subgrupo 1 (login y logout)
 - Anotación de feedback en clase
 
-## Santiago Martín, Gonzalo
+### Santiago Martín, Gonzalo
 
 - Presentación semana 4.
 - Implementación de la página _Sobre Nosotros_.
@@ -430,7 +429,7 @@ Individual Contribution Summary
 - Revisión de pull request de página FAQ.
 - Revisión y arreglo recurrente de errores de diseño.
 
-Navarro Rivera, Álvaro:
+### Navarro Rivera, Álvaro:
 
 - Planificación Usuarios Piloto y definición de métricas
 - Definición métricas de rendimiento semana 2 Sprint 1
@@ -441,7 +440,7 @@ Navarro Rivera, Álvaro:
 - Recopilar IA report subgrupo 3
 - Preparación del Entregable
 
-## Bustamante Lucena, Eduardo
+### Bustamante Lucena, Eduardo
 
 - Revisión de la presentación de Sprint 1 Semana 1.
 - Revisión del documento de gestión de código.
@@ -455,7 +454,7 @@ Navarro Rivera, Álvaro:
 - Login de Usuario.
 - Actualización del Customer Agreement.
 
-## Nunes Ruiz, Javier
+### Nunes Ruiz, Javier
 
 - Matriz de disponibilidad.
 - Página de contacto.
@@ -464,14 +463,14 @@ Navarro Rivera, Álvaro:
 - Creación de las distintas redes sociales y su implementación en la aplicación.
 - Documento de reporte de tiempos con sus respectivas gráficas y creación y asignación de cada una de las etiquetas de tipos de tareas.
 
-## Martínez Valladares, Pablo
+### Martínez Valladares, Pablo
 
 - Realización del documento de métricas del código junto a Mario.
 - Popular base de datos.
 - Implementar frontend en registro de usuario.
 - Revisión tarea social media
 
-## Rodrígues Asensio, Artemio
+### Rodrígues Asensio, Artemio
 
 - Ver las píldoras teóricas
 - Analizar backlog de alto nivel y convertirlo en historias de usuario y reglas de negocio (week 4)
@@ -485,7 +484,7 @@ Navarro Rivera, Álvaro:
 - Revisar el guión de presentación de la 2º parte(parte del 2º presentador) y realizar la 1º parte (week 4-5)
 - Reunión de Sprint Review y presentación ante los compañeros para recibir el feedback (week 5)
 
-## Benítez Morales, Alberto
+### Benítez Morales, Alberto
 
 - Vista planes de suscripción
 - Reloj del proyecto
@@ -494,7 +493,7 @@ Navarro Rivera, Álvaro:
 - Desarrollo de docusaurus del equipo
 - Desarrollo acta Sprint Review y Retrospective
 
-## Roca Rodríguez, Marco Antonio
+### Roca Rodríguez, Marco Antonio
 
 - Desarrollo del backlog
 - Reloj del proyecto
@@ -508,7 +507,7 @@ Navarro Rivera, Álvaro:
 - Revisión de tarea F-016
 - Killer opening (Week 5)
 
-## Sprint 2 (#S2)
+## **Sprint 2 (#S2)**
 
 ### Vargas Castro, Francisco José
 
@@ -522,7 +521,7 @@ Navarro Rivera, Álvaro:
 - Revisiónes a pull requests.
 - Arreglo de fallos de integración al integrar la funcionalidad de operaciones CRUD para las ofertas publicadas por las empresas.
 
-## Sánchez Naranjo, Mario
+### Sánchez Naranjo, Mario
 
 - Gestión de Reservas para compañías(backend)
 - Calendario de Eventos(backend)

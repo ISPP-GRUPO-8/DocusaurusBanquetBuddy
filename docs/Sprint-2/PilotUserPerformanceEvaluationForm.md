@@ -1,3 +1,8 @@
+---
+sidebar_label: 'Evaluación de los usuarios piloto'
+sidebar_position: 3
+---
+
 **Pilot Users Performance Evaluation**
 
 **PILOT USER ISSP GROUP NUMBER: 2**

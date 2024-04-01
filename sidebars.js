@@ -54,14 +54,15 @@ const sidebars = {
       type: 'category',
       label: 'Sprint 2',
       items: ['Sprint-2/PerformanceEvaluation', 'Sprint-2/AI-usage', 'Sprint-2/Cost-analysis',
-        'Sprint-2/pilotUsersCommitmentAgreementExternal', 'Sprint-2/pilotUsersCommitmentAgreementMorningGroup', 'Sprint-2/pilots', 'Sprint-2/revision'],
+        'Sprint-2/pilotUsersCommitmentAgreementExternal', 'Sprint-2/pilotUsersCommitmentAgreementMorningGroup', 'Sprint-2/pilots',
+        'Sprint-2/revision', 'Sprint-2/InformationProvidedByPilotUsers', 'Sprint-2/PerformanceMetrics'],
 
     },
 
     {
       type: 'category',
       label: 'Actas de reuniones',
-      items: ['actas/02-02-2024', 'actas/15-02-2024', 'actas/18-02-2024', 'actas/21-02-2024'],
+      items: ['actas/02-02-2024', 'actas/15-02-2024', 'actas/18-02-2024', 'actas/21-02-2024', 'actas/01-04-2024Retrospectiva', 'actas/01-04-2024Review'],
 
     },
 
