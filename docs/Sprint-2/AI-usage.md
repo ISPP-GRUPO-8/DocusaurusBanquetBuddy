@@ -1,3 +1,8 @@
+---
+sidebar_label: 'Reporte de IA'
+sidebar_position: 3
+---
+
 Universidad de Sevilla  
 Escuela Técnica Superior de Ingeniería Informática
 
