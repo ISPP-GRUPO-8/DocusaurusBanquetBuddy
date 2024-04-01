@@ -135,7 +135,7 @@ Chat GPT:
 **Prompts utilizados(algunos):**
 
 [prompt 1](https://chat.openai.com/share/2eae6114-a6f7-405b-8e42-e2fe1109251b)
-
+[propmt 2](https://chat.openai.com/c/ee6fc49d-b41a-4751-be02-5445208f0749)
 #
 
 #
