@@ -514,12 +514,152 @@ Individual Contribution Summary
 - Guión presentaciones
 - Realizar presentaciones
 - Listado y filtrado de las aplicaciones a trabajos de los empleados por parte de las empresas.
-- Sistema de notificaciones a empleados, particulares  y dueños de empresas.
+- Sistema de notificaciones a empleados, particulares y dueños de empresas.
 - Acción de aplicar a una oferta como empleado.
 - Seguimiento del estado de las aplicaciones a trabajos por parte de los empleados.
 - Arreglo hacking por URL a la acción de eliminar una oferta.
 - Revisiónes a pull requests.
 - Arreglo de fallos de integración al integrar la funcionalidad de operaciones CRUD para las ofertas publicadas por las empresas.
+
+### Bustamante Lucena, Eduardo
+
+- Desarrollo de la funcionalidad cartas de recomendación.
+- Desarrollo del Storyboard tipo cliente = employee.
+- Desarrollo del Sprint Planning.
+- Realizar la configuración del github actions.
+- Desarrollo de la funcionalidad de Error Report.
+- Desarrollo de la funcionalidad del Sistema de Calificación y Reseñas.
+- Revisión de la tarea: Crud Catering Service.
+- Revisión de la tarea: Payment management.
+- Desarrollo de la funcionalidad Informe de errores.
+- Mockups ofertas de empleo.
+- Report de IA W7.
+- Presentación W7 y W8.
+
+### Rodríguez Cordero, Javier
+
+- Implementación de GitHub Actions.
+- Desarrollo de parte de la presentación semana 7 y semana 8.
+- Arreglo de error en tests de develop.
+- Desarrollo de la funcionalidad “Proceso de Contratación de Catering”.
+- Desarrollo de la funcionalidad “Modificación y Cancelación de Reservas para Particulares”.
+- Desarrollo de la funcionalidad “Sistema de Calificación y Reseñas”.
+- Desarrollo de la funcionalidad “Modificación y Cancelación de Reservas para Empresas de Catering”.
+- Desarrollo de la funcionalidad “Cartas de recomendación”.
+- Desarrollo de la funcionalidad “Informe de errores”.
+- Realización del Storyboard del cliente particular.
+- Realización de mockup para los “applicants”.
+- Revisión de la funcionalidad “Filtrado de caterings”.
+- Revisión de la funcionalidad “Búsqueda Directa de Caterings desde Inicio”.
+- Revisión de la funcionalidad “Catering contratado”.
+- Revisión de la funcionalidad “User profile page”.
+
+### Carrera Bernal, Álvaro
+
+- Desarrollo de la funcionalidad de Error Report.
+- Desarrollo de la funcionalidad de Gestión de Cancelaciones/Modificaciones por Clientes para Empresas de Catering.
+- Revisión de la tarea: Búsqueda de caterings.
+- Revisión de la tarea: Listado de caterings.
+- Desarrollo de la funcionalidad del Sistema de Calificación y Reseñas.
+- Desarrollo de la funcionalidad de Política de Cancelación/Modificación de Reservas.
+- Desarrollo de la funcionalidad de Proceso de Contratación de Catering.
+- Realización de mockups de ofertas de empleo.
+- Desarrollo de la funcionalidad de Cartas de Recomendación.
+- Desarrollo StoryBoard del tipo cliente-employee.
+- Configuración GitHub Actions.
+- Resolución de conflictos de la tarea de Gestión de Reservas de un catering.
+- Realización de un hotfix de los tests.
+- Presentación W8.
+
+### Martínez Cano, Juan
+
+- Desarrollo de la funcionalidad de Gestión de Cancelaciones/Modificaciones por Clientes para Empresas de Catering.
+- Revisión de la tarea: Crud Catering Service.
+- Revisión de la tarea: Búsqueda de caterings.
+- Revisión de la tarea: Listado de caterings.
+- Desarrollo de la funcionalidad de Política de Cancelación/Modificación de Reservas.
+- Desarrollo de la funcionalidad de Proceso de Contratación de Catering.
+- Desarrollo de la funcionalidad de Cartas de Recomendación.
+- Desarrollo de los StoryBoards.
+- Configuración GitHub Actions.
+- Resolución de conflictos de la tarea de Gestión de Reservas de un catering.
+- Realización de un hotfix de los tests.
+- Presentación W7 y W8
+
+### Santiago Martín, Gonzalo
+
+- Desarrollo de búsqueda de caterings por nombre.
+- Desarrollo de búsqueda de caterings contratados por el usuario autenticado. (Pair Programming)
+- Implementación de la gestión de pagos (Pasarela de pago, cuenta de stripe…)
+- Despliegue de la aplicación para el S2 y sus correspondientes actualizaciones para entrega y usuarios pilotos.
+- Presentación semanas 7 y 8.
+- Revisión de las tareas del subgrupo 1.
+- Ver píldoras teóricas.
+
+### Sánchez Flores, Álvaro
+
+- Desarrollo de búsqueda de caterings contratados por el usuario autenticado. (Pair Programming)
+- Implementación de listado de catering_services. (Pair programming)
+- Implementación de edicion de un catering_service. (Pair programming)
+- Implementación de eliminación de un catering_service. (Pair programming)
+- Implementación de creación de un catering_service. (Pair programming)
+- Implementación de listado de catering_services para particulars.
+- Actualizar feedbacks en docusaurus BGC común semanas 5 y 7
+- Usuario piloto de grupo 2 de ISPP.
+- Presentación semanas 7 y 8.
+- Gráfico de dispersión de rendimiento individual y fórmulas
+- Mejora de la estimación de costes
+- Gráfica de comparativa de costes frente a ingresos(Optimista, Realista, Pesimista)
+- Corrección del Customer Agreement.
+- Ver píldoras teóricas.
+
+### Barroso Barroso, Fernando
+
+- Implementación del filtrado de catering companies por diferentes opciones.
+- Implementación del listado de catering services. (Pair programming)
+- Implementación de la edición de un catering service. (Pair programming)
+- Implementación de la eliminación de un catering service. (Pair programming)
+- Implementación de la creación de un catering service. (Pair programming)
+- Presentación semanas 7 y 8.
+- Revisión de las tareas del subgrupo 1.
+- Ver píldoras teóricas.
+
+### CABALLERO HERNÁNDEZ, JAIME
+
+- Implementación del catálogo de catering y ofertas de trabajo en la página inicial.
+- Implementación de un buscador de catering y ofertas de trabajo en la página inicial.
+- Gráfica estado actual del proyecto
+- Usuario piloto de grupo 2 de ISPP.
+- Mejora de la estimación de costes
+- Ver todas las píldoras teóricas.
+- Presentación semanas W7 y W8.
+- Revisión de las tareas del subgrupo 1(ver pull request).
+
+### Martínez Valladares, Pablo
+
+- Implementación de gestión de reservas por parte del catering.
+- implementación del frontend de gestión de menús.
+- Implementación del frontend de gestión de platos.
+- Implementación del frontend del calendario de reservas.
+- Revisión de tareas del subgrupo 2.
+- Ver píldoras teóricas.
+
+### Navarro Rivera, Álvaro
+
+- Editar perfil Empresa
+- Contactar usuarios piloto
+- Creación formularios usuarios piloto
+- Recogida de información de usuarios piloto
+- Redacción de las métricas de rendimiento
+- Excel para el cálculo automático del rendimiento
+- Restricción de acceso según el plan de precio con Mario Sanchez
+- Cancelación de suscripciones con Mario Sanchez
+- Cambios de plan de precio
+- Registro de usuarios (Backend) con Mario Sanchez
+- Trasladar documentos de Drive a Docksaurus
+- Redacción del contrato de usuarios piloto
+- Edición de la presentación
+- Entrega
 
 ### Sánchez Naranjo, Mario
 
@@ -532,88 +672,61 @@ Individual Contribution Summary
 - Recolección de feedback en clase
 - Preparar entrega(incluye subir documentos necesarios a docusaurus y revisando el failure conditions)
 
-## Surname, Name 3
+### Benítez Morales, Alberto
 
-Student contribution
+- Reunión sprint planning
+- Reunión sprint review / sprint retrospective
+- Promoción de servicios para plan pro
+- Frontend publicación de ofertas
+- Despliegue docusaurus
+- Software review
+- Revisión de tareas subgrupo 3
 
-## Surname, Name 4
+### Nunes Ruiz, Javier
 
-Student contribution
+- Tag y release Sprint 1.
+- Documento de reporte de tiempos actualizado cada semana con sus respectivas gráficas y asignación de cada una de las etiquetas de tipos de tareas.
+- Publicación currículum.
+- Presentación de semana de retrospectiva.
+- Revisión arreglo frontend del calendario.
+- Mejora página home.
+- Arreglo funcionalidades empleados de catering.
+- Ayuda documento Reviewer’s Guide.
 
-…
+### Roca Rodríguez, Marco Antonio
 
-## Surname, Name X
+- Implementación de publicación de ofertas
+- Implementación de listado de ofertas tanto para catering service como para trabajadores
+- Implementación de edición de ofertas
+- Implementación de eliminación de ofertas
+- Mejora de gestión y publicación de ofertas
+- Sprint Planning Week 6, 7
+- Software review
+- Actualización docusaurus y nuevos documentos
+- Software Review Document
 
-Student contribution
+### Rodrígues Asensio, Artemio
 
-# Sprint 3 (#S3)
+- Implementación de gestión de menús
+- Implementación de gestión de platos
+- Preparar guiones para las presentaciones y presentar
+- Participar en la reuniones de Sprint Planning como coordinador (solo week 6)
+- Participar en la reuniones de Sprint Planning de mi subgrupo
+- Ver las píldoras teóricas
+- Revisión de las tareas de programación y código del grupo 2
+- Realizar ajustes en la base de datos y en populate
+- Configurar SonarQube
+- Editar el video de demo
+- Participar en las reuniones de Sprint Review y Retrospectiva
+- Realizar ensayos individuales de la presentación
 
-## Surname, Name 1
+ ### Pacheco Rodrigues, Guillermo Alonso:
 
-Student contribution
-
-## Surname, Name 2
-
-Student contribution
-
-## Surname, Name 3
-
-Student contribution
-
-## Surname, Name 4
-
-Student contribution
-
-…
-
-## Surname, Name X
-
-Student contribution
-
-# Preparing Project Launch (#PPL)
-
-## Surname, Name 1
-
-Student contribution
-
-## Surname, Name 2
-
-Student contribution
-
-## Surname, Name 3
-
-Student contribution
-
-## Surname, Name 4
-
-Student contribution
-
-…
-
-## Surname, Name X
-
-Student contribution
-
-# World Project Launch (#WPL)
-
-## Surname, Name 1
-
-Student contribution
-
-## Surname, Name 2
-
-Student contribution
-
-## Surname, Name 3
-
-Student contribution
-
-## Surname, Name 4
-
-Student contribution
-
-…
-
-## Surname, Name X
-
-Student contribution
+- Implementación de proceso de verificación de empresas
+- Story Board Semana 7
+- Revisión de tarea Caterings by location
+- Implementación de recuperación de contraseñas
+- Generación de changelogs e implementación de su automatización
+- Presentación Semanas 7 y 8
+- Participar en reunión de Sprint Planning
+- Ver píldoras teóricas
