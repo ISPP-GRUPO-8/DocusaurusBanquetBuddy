@@ -75,7 +75,7 @@ Date: \_**\_04/03/2024_\_**
 
 Individual Contribution Summary
 
-# Devising a Project (#DP)
+## Devising a Project (#DP)
 
 ## VARGAS CASTRO, FRANCISCO JOSÉ
 
@@ -296,7 +296,7 @@ Individual Contribution Summary
 
 
 
-# Sprint 1 (#S1)
+## Sprint 1 (#S1)
 
 ## Vargas Castro, Francisco José
 
@@ -508,9 +508,9 @@ Navarro Rivera, Álvaro:
 - Revisión de tarea F-016
 - Killer opening (Week 5)
 
-# Sprint 2 (#S2)
+## Sprint 2 (#S2)
 
-## Vargas Castro, Francisco José
+### Vargas Castro, Francisco José
 
 - Guión presentaciones
 - Realizar presentaciones
@@ -522,9 +522,16 @@ Navarro Rivera, Álvaro:
 - Revisiónes a pull requests.
 - Arreglo de fallos de integración al integrar la funcionalidad de operaciones CRUD para las ofertas publicadas por las empresas.
 
-## Surname, Name 2
+## Sánchez Naranjo, Mario
 
-Student contribution
+- Gestión de Reservas para compañías(backend)
+- Calendario de Eventos(backend)
+- Restricciones de Acceso según plan de precios con Álvaro Navarro
+- Cancelación de subscripción con Álvaro Navarro
+- Cálculo de CO2
+- Revisión de pull request de Ofertas de empleo,Notificaciones y arreglo delete hacking de ofertas
+- Recolección de feedback en clase
+- Preparar entrega(incluye subir documentos necesarios a docusaurus y revisando el failure conditions)
 
 ## Surname, Name 3
 
