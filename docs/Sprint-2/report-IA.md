@@ -124,14 +124,17 @@ Chat GPT:
 
 **Tabla resumen:**
 
-| **IA Utilizada** | **Para qué la hemos utilizado** | **Nº de conversaciones** | **Tiempo utilización** |
+| **IA Utilizada** | **Para qué la hemos utilizado** | **Nº de queries** | **Tiempo utilización** |
 | --- | --- | --- | --- |
-|     |     |     |     |
+| ChatGPT | Ayudar a redactar la política de privacidad y los términos y condiciones,ayudar en las tareas de programación,ayuda en contrato usuarios piloto,ayudar en la configuración de SonarQube| 14,108,1,11 | 1 hora,12 horas,2 minutos,1.5 horas |
 | --- | --- | --- | --- |
+| GitHub Copilot |Haciendo tareas de programación en Visual Studio, en varias ocasiones he usado la opción de “quick fix con copilot” y he escrito algunos prompts directamente para mejorar css en las html.| 10 | 1 hora |
+| --- | --- | --- | --- |
+
 
 **Prompts utilizados(algunos):**
 
-#
+[prompt 1](https://chat.openai.com/share/2eae6114-a6f7-405b-8e42-e2fe1109251b)
 
 #
 
