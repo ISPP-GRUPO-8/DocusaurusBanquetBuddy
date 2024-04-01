@@ -55,7 +55,9 @@ const sidebars = {
       label: 'Sprint 2',
       items: ['Sprint-2/PerformanceEvaluation', 'Sprint-2/AI-usage', 'Sprint-2/Cost-analysis',
         'Sprint-2/pilotUsersCommitmentAgreementExternal', 'Sprint-2/pilotUsersCommitmentAgreementMorningGroup', 'Sprint-2/pilots',
-        'Sprint-2/revision', 'Sprint-2/InformationProvidedByPilotUsers', 'Sprint-2/PerformanceMetrics', 'Sprint-2/report', 'Sprint-2/Timer-effort-report', 'Sprint-2/Presentacion'],
+        'Sprint-2/revision', 'Sprint-2/InformationProvidedByPilotUsers', 'Sprint-2/PerformanceMetrics', 
+        'Sprint-2/report', 'Sprint-2/Timer-effort-report', 'Sprint-2/Presentacion','Sprint-2/ReportForGroup2',
+        'Sprint-2/PilotUserPerformanceEvaluationForm'],
 
     },
 
