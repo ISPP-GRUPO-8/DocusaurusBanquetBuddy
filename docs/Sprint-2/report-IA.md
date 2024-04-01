@@ -59,7 +59,7 @@ Curso 2023 – 2024
 
 | **IA Utilizada** | **Para qué la hemos utilizado** | **Nº de conversaciones** | **Tiempo utilización** |
 | --- | --- | --- | --- |
-| ChatGPT | Se ha utilizado chatgpt para facilitar tareas de programación como restricciones, creacion de test etc... |  3   | 15 min |
+| ChatGPT | Se ha utilizado chatgpt para facilitar tareas de programación como restricciones, creacion de test etc... |  5   | 40 min |
 | --- | --- | --- | --- |
 | Gemini |  |     |     |
 | --- | --- | --- | --- |
