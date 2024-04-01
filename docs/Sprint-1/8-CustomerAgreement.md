@@ -1,7 +1,27 @@
 ---
-sidebar_label: 'Customer Agreement'
+sidebar_label: 'Acuerdo del cliente'
 sidebar_position: 3
 ---
+
+| **Grupo de prácticas: 8** |
+| --- |
+| Alberto Benitez Morales |
+| Álvaro Carrera Bernal |
+| Álvaro Navarro Rivera |
+| Álvaro Jose Sanchez Flores |
+| Artemio Rodriguez Asensio |
+| Eduardo de Bustamante Lucena |
+| Fernando Barroso Barroso |
+| Francisco Jose Vargas Castro |
+| Gonzalo Santigo Martín |
+| Guillermo Alonso Pacheco Rodrigues |
+| Jaime Caballero Hernandez |
+| Javier Nunes Ruiz |
+| Javier Rodríguez Cordero |
+| Juan Martínez Cano |
+| Marco Antonio Roca Rodríguez |
+| Mario Sanchez Naranjo |
+| Pablo Martínez Valladares |
 
 # Customer Agreement
 

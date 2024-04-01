@@ -1,9 +1,29 @@
 ---
-sidebar_label: 'Individual Performance Evaluation'
+sidebar_label: 'Evaluación de rendimiento'
 sidebar_position: 3
 ---
 
-# Individual Performance Evaluation**
+| **Grupo de prácticas: 8** |
+| --- |
+| Alberto Benitez Morales |
+| Álvaro Carrera Bernal |
+| Álvaro Navarro Rivera |
+| Álvaro Jose Sanchez Flores |
+| Artemio Rodriguez Asensio |
+| Eduardo de Bustamante Lucena |
+| Fernando Barroso Barroso |
+| Francisco Jose Vargas Castro |
+| Gonzalo Santigo Martín |
+| Guillermo Alonso Pacheco Rodrigues |
+| Jaime Caballero Hernandez |
+| Javier Nunes Ruiz |
+| Javier Rodríguez Cordero |
+| Juan Martínez Cano |
+| Marco Antonio Roca Rodríguez |
+| Mario Sanchez Naranjo |
+| Pablo Martínez Valladares |
+
+**Individual Performance Evaluation**
 
 ISPP 2023-2024
 
@@ -17,27 +37,27 @@ Date: \_**\_04/03/2024_\_**
 | --- | --- | --- | --- | --- | --- | --- |
 | **Vargas Castro, Francisco José** | **10** | **10** |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Benítez**<br><br>**Morales,**<br><br>**Alberto** | **10** | **10** |     |     |     |     |
+| **Benítez**<br></br>**Morales,**<br></br>**Alberto** | **10** | **10** |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Carrera**<br><br>**Bernal,**<br><br>**Álvaro** | **10** | **10** |     |     |     |     |
+| **Carrera**<br></br>**Bernal,**<br></br>**Álvaro** | **10** | **10** |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Navarro**<br><br>**Rivera,**<br><br>**Álvaro** | **10** | **10** |     |     |     |     |
+| **Navarro**<br></br>**Rivera,**<br></br>**Álvaro** | **10** | **10** |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Sánchez**<br><br>**Flores,**<br><br>**Álvaro José** | **10** | **10** |     |     |     |     |
+| **Sánchez**<br></br>**Flores,**<br></br>**Álvaro José** | **10** | **10** |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Rodríguez**<br><br>**Asensio,**<br><br>**Artemio** | **10** | **10** |     |     |     |     |
+| **Rodríguez**<br></br>**Asensio,**<br></br>**Artemio** | **10** | **10** |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| **De**<br><br>**Bustamante**<br><br>**Lucena,**<br><br>**Eduardo**<br><br>**Barroso**<br><br>**Barroso,**<br><br>**Fernando** | **10**<br><br>**10** | **10**<br><br>**10** |     |     |     |     |
+| **De**<br></br>**Bustamante**<br></br>**Lucena,**<br></br>**Eduardo**<br></br>**Barroso**<br></br>**Barroso,**<br></br>**Fernando** | **10**<br></br>**10** | **10**<br></br>**10** |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Santiago**<br><br>**Martín,**<br><br>**Gonzalo** | **10** | **10** |     |     |     |     |
+| **Santiago**<br></br>**Martín,**<br></br>**Gonzalo** | **10** | **10** |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Pacheco**<br><br>**Rodrigues,**<br><br>**Guillermo**<br><br>**Alonso** | **10** | **10** |     |     |     |     |
+| **Pacheco**<br></br>**Rodrigues,**<br></br>**Guillermo**<br></br>**Alonso** | **10** | **10** |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Caballero**<br><br>**Hernández,**<br><br>**Jaime** | **10** | **10** |     |     |     |     |
+| **Caballero**<br></br>**Hernández,**<br></br>**Jaime** | **10** | **10** |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Nunes Ruiz,**<br><br>**Javier** | **10** | **10** |     |     |     |     |
+| **Nunes Ruiz,**<br></br>**Javier** | **10** | **10** |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Rodríguez**<br><br>**Cordero,** | **10** | **10** |     |     |     |     |
+| **Rodríguez**<br></br>**Cordero,** | **10** | **10** |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 
 3
@@ -46,13 +66,13 @@ ISPP 2023-2024
 
 | **Javier** |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Martínez**<br><br>**Cano,**<br><br>**Juan** | **10** | **10** |     |     |     |     |
+| **Martínez**<br></br>**Cano,**<br></br>**Juan** | **10** | **10** |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Roca**<br><br>**Rodríguez,**<br><br>**Marco**<br><br>**Antonio** | **10** | **10** |     |     |     |     |
+| **Roca**<br></br>**Rodríguez,**<br></br>**Marco**<br></br>**Antonio** | **10** | **10** |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Sánchez**<br><br>**Naranjo,**<br><br>**Mario** | **10** | **10** |     |     |     |     |
+| **Sánchez**<br></br>**Naranjo,**<br></br>**Mario** | **10** | **10** |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Pablo**<br><br>**Martínez**<br><br>**Valladares** | **10** | **10** |     |     |     |     |
+| **Pablo**<br></br>**Martínez**<br></br>**Valladares** | **10** | **10** |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Total** | **170** | **170** |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |

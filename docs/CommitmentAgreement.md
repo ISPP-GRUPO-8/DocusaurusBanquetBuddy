@@ -6,6 +6,7 @@ sidebar_position: 3
 # Compromiso de Participación en la Asignatura ISPP (Ingeniería del Software y Práctica Profesional) - Curso 2023-24
 Fecha de última actualización: 19/02/2024
 Grupo de Trabajo: 8
+Versión:1.2
 
 * **Compromiso**: Yo, como integrante del grupo 8, al incorporarse a la asignatura de Ingeniería de Software y Práctica Profesional (ISPP) para el curso 2023-24, me comprometo a cumplir con los siguientes requisitos y condiciones como miembro activo del grupo de trabajo, compuesto por 17 personas:
 
