@@ -56,7 +56,7 @@ Curso 2023 – 2024
 
 | **IA Utilizada** | **Para qué la hemos utilizado** | **Nº de conversaciones** | **Tiempo utilización** |
 | --- | --- | --- | --- |
-| ChatGPT | --- |  ---   | --- |
+| ChatGPT | Se ha utilizado chatgpt para facilitar la implementación de la funcionalidad de Opiniones y Reportes |  1   | 10 min |
 | ElevenLabs | Narrar anuncio | 1 | 20 min |
 | Suno | Canción para anuncio |   1  |   10 min  |
 | --- | --- | --- | --- |
@@ -64,6 +64,8 @@ Curso 2023 – 2024
 **Prompts utilizados:**
 
 ChatGPT:
+  - "Las empresas de catering deben obtener información valiosa sobre su rendimiento y generar reportes con datos estadísticos."
+    - Enlace: https://chat.openai.com/share/7fa67b08-08c9-4656-b192-a6d86b251330 
 
 
 # _Subgrupo 2_
