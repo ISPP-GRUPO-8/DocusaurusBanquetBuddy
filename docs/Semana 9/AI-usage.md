@@ -58,7 +58,7 @@ Curso 2023 – 2024
 | --- | --- | --- | --- |
 | ChatGPT | --- |  ---   | --- |
 | ElevenLabs | Narrar anuncio | 1 | 20 min |
-| --- | --- |   ---  |   ---  |
+| Suno | Canción para anuncio |   1  |   10 min  |
 | --- | --- | --- | --- |
 
 **Prompts utilizados:**
