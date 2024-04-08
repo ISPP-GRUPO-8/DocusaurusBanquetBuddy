@@ -57,7 +57,7 @@ Curso 2023 – 2024
 | **IA Utilizada** | **Para qué la hemos utilizado** | **Nº de conversaciones** | **Tiempo utilización** |
 | --- | --- | --- | --- |
 | ChatGPT | --- |  ---   | --- |
-| --- | --- | --- | --- |
+| ElevenLabs | Narrar anuncio | 1 | 20 min |
 | --- | --- |   ---  |   ---  |
 | --- | --- | --- | --- |
 
