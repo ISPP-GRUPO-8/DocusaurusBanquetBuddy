@@ -70,6 +70,13 @@ const sidebars = {
 
     {
       type: 'category',
+      label: 'Sprint 3',
+      items: ['Sprint-3/PerformanceEvaluation', 'Sprint-3/AI-usage'],
+
+    },
+
+    {
+      type: 'category',
       label: 'Actas de reuniones',
       items: ['actas/02-02-2024', 'actas/15-02-2024', 'actas/18-02-2024', 'actas/21-02-2024', 'actas/01-04-2024Retrospectiva', 'actas/01-04-2024Review'],
 
