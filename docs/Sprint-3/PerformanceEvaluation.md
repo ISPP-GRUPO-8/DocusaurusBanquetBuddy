@@ -750,3 +750,17 @@ Individual Contribution Summary
 - Guión demo presentación del sprint 3.
 - Diapositivas de la presentacion 1 del sprint 3.
 - Revisión de los security hotspots en sonarcloud.
+
+### SÁNCHEZ NARANJO, MARIO
+
+- Configuración de Selenium y Locust para pruebas de vista y carga
+- Modificación de Workflow de Github Actions
+- Implementación de pruebas de vista y carga de funcionalidades del subgrupo 3
+- Revisiones de pull request de 
+- Modificación de poblado de base de datos
+- Preparar entrega(preparar documentos en el docusaurus)+revisión de failure conditions
+- Participación en sprint planning de la semana 10
+- Revisión del CO2
+- Preparación de diapositivas para las presentaciones
+- Recolección de feedback en clase 
+- Modificar software review guidelines con nuevas funcionalidades
