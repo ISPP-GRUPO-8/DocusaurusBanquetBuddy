@@ -31,6 +31,7 @@ sidebar_position: 3
 | **Fecha** | **Versión** | **Descripción** |
 | --- | --- | --- |
 | 04/03/2024 | 1.0 | Primera versión del documento |
+| 21/04/2024 | 2.0 | Entregable Sprint 3 |
 | --- | --- | --- |
 
 ## URL de docusaurus
@@ -46,6 +47,12 @@ En la Semana 3, se revisó el feedback de los profesores sobre la presentación,
 
 En la Semana 4, se continuó con el feedback, se discutió la posibilidad de ampliar el rango de edad de los usuarios piloto y se sugirió más detalle sobre el TCO. Se hizo hincapié en la inclusión del análisis de riesgos y en la mejora de la presentación de datos con gráficos y tablas. También se mencionó la simplificación de la documentación y la importancia de generar empatía con la audiencia al inicio de la presentación.
 
+Hemos añadido el feedback correspondiente a las semanas 8 y 9.
+
+En la semana 8 destacamos la importancia de mejorar el aspecto visual de algunas tablas y gráficas, ya sea cambiando colores , la fuente o incluso el tamaño de las líneas. También hubo hincapié en cambiar el presupuesto usando Capex y Opex.
+
+En la semana 9 se nos pidió comenzar la campaña de marketing, asi cómo seguir mejorando la demo tanto la visualización como hacer un resumen previo de lo que se va a mostrar y los tipos de usuarios que están usando la aplicación en cada momento.
+
 ## Feedback general
 
 Con respecto al feedback general, hemos añadido contenido en la sección de análisis de coste y en la de presentaciones.
@@ -53,3 +60,7 @@ Con respecto al feedback general, hemos añadido contenido en la sección de an�
 En la semana 3, se sugirió hacer una autodefensa al final de la presentación
 
 En la Semana 4, se sugirió hacer estimaciones de costes (pesimistas, optimistas y neutras) y ver de qué manera evoluciona el TCO. En las presentaciones, se incorporó el customer agreement.
+
+En la semana 8 incluimos el feedback de hacer commitment agreement con los usuarios piloto.
+
+En la semana 9 reflejamos la petición de incluir en los presupuestos el salario de los nuevos roles pedidos Community Manager y RGPD
