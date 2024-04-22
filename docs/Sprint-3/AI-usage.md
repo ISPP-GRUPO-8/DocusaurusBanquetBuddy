@@ -64,7 +64,7 @@ Curso 2023 – 2024
 
 | **IA Utilizada** | **Para qué la hemos utilizado** | **Nº de conversaciones** | **Tiempo utilización** |
 | --- | --- | --- | --- |
-| ChatGPT | Se ha utilizado chatgpt para facilitar la implementación de la funcionalidad de Opiniones y Reportes |  1   | 10 min |
+| ChatGPT | Se ha utilizado chatgpt para facilitar la implementación de la funcionalidad de Opiniones y Reportes, además se ha usado para facilitar la creación de un plan de marketing |  2   | 15 min |
 | ElevenLabs | Narrar anuncio | 1 | 20 min |
 | Suno | Canción para anuncio |   1  |   10 min  |
 | --- | --- | --- | --- |
@@ -72,6 +72,8 @@ Curso 2023 – 2024
 **Prompts utilizados:**
 
 ChatGPT:
+  - "Pensar en alguna estrategia de marketing para ganar tracción en el mercado,no hace falta que sea compleja"
+    - Enlace: https://chat.openai.com/share/e4927b5a-f423-4c4f-ab72-4a368c87f23c
   - "Las empresas de catering deben obtener información valiosa sobre su rendimiento y generar reportes con datos estadísticos."
     - Enlace: https://chat.openai.com/share/7fa67b08-08c9-4656-b192-a6d86b251330 
 
