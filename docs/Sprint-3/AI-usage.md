@@ -1,12 +1,12 @@
 ---
-sidebar_label: 'Reporte de IA'
+sidebar_label: 'Reporte de IA (AI-Usage.md)'
 sidebar_position: 3
 ---
 
 Universidad de Sevilla  
 Escuela Técnica Superior de Ingeniería Informática
 
-Sprint 2
+Sprint 3
 
 BunquetBuddy
 
@@ -64,14 +64,19 @@ Curso 2023 – 2024
 
 | **IA Utilizada** | **Para qué la hemos utilizado** | **Nº de conversaciones** | **Tiempo utilización** |
 | --- | --- | --- | --- |
-| ChatGPT | --- |   ---  | --- |
-| --- | --- | --- | --- |
-| Gemini | --- |  ---   |  ---   |
+| ChatGPT | Se ha utilizado chatgpt para facilitar la implementación de la funcionalidad de Opiniones y Reportes, además se ha usado para facilitar la creación de un plan de marketing |  2   | 15 min |
+| ElevenLabs | Narrar anuncio | 1 | 20 min |
+| Suno | Canción para anuncio |   1  |   10 min  |
 | --- | --- | --- | --- |
 
 **Prompts utilizados:**
 
 ChatGPT:
+  - "Pensar en alguna estrategia de marketing para ganar tracción en el mercado,no hace falta que sea compleja"
+    - Enlace: https://chat.openai.com/share/e4927b5a-f423-4c4f-ab72-4a368c87f23c
+  - "Las empresas de catering deben obtener información valiosa sobre su rendimiento y generar reportes con datos estadísticos."
+    - Enlace: https://chat.openai.com/share/7fa67b08-08c9-4656-b192-a6d86b251330 
+
 
 
 
@@ -120,8 +125,13 @@ Github Copilot:
 
 | **IA Utilizada** | **Para qué la hemos utilizado** | **Nº de queries** | **Tiempo utilización** |
 | --- | --- | --- | --- |
-| ChatGPT | --- |--- |--- |
-| --- | --- | --- | --- |
+| ChatGPT | Ajustar funcionalidad de aplicación a ofertas |127 |10 horas |
+| --- |Crear la funcionalidad de contratar a un empleado y despedirlo o modificar su contrato
+| --- |Mejorar aspectos UX de la parte de empleo en general
+| --- |Crear la funcionalidad de gestión de tareas 
+| --- | Uso de Selenium
+| --- | Ayuda en los test
+| GitHub Copilot | Utilizar la funcionalidad de “Quick fix con copilot” en VisualCode para ajustes puntuales como imports faltantes/incorrectos, nombres de variables incorrectos y etc| 12 | 0.5 hora aprox. |
 | --- |---| --- | --- |
 | --- | --- | --- | --- |
 
@@ -160,7 +170,9 @@ Github Copilot:
 
 | **IA Utilizada** | **Para qué la hemos utilizado** | **Nº de conversaciones** | **Tiempo utilización** |
 | --- | --- | --- | --- |
-|     |     |     |     |
+| Copilot | Generación del correo de confirmación para el registro del usuario | 4 | 30 minutos |
 | --- | --- | --- | --- |
 
+
 **Prompts utilizados:**
+- "Quiero añadir una funcionalidad al registro de usuarios de mi aplicación para que cuando un usuario se registre le llegue un correo de confirmación"

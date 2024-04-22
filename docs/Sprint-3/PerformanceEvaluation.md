@@ -8,7 +8,7 @@ Version: 3.0
 Universidad de Sevilla  
 Escuela Técnica Superior de Ingeniería Informática
 
-Sprint 2
+Sprint 3
 
 BanquetBuddy
 
@@ -53,24 +53,24 @@ Date: \_**\_04/03/2024_\_**
 
 | **Student** | **#DP1** | **#S1** | **#S2** | **#S3** | **#PPL** | **#WPL** | **Total** | **Weight** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Vargas Castro,**<br></br>**Francisco José** | **10** | **10** |  **10**   |  ---   |   ---  |   ---  |  ---   |  ---   |
-| **Benítez Morales,**<br></br>**Alberto** | **10** | **10** |  **10**   |  ---   |   ---  |   ---  |   ---  |   ---  |
-| **Carrera Bernal,**<br></br>**Álvaro** | **10** | **10** |  **10**   |   ---  |  ---   |   ---  |    --- |   ---  |
-| **Navarro Rivera,**<br></br>**Álvaro** | **10** | **10** |   **10**  |   ---  |  ---   | ---    |  ---   |   ---  |
-| **Sánchez Flores,**<br></br>**Álvaro José** | **10** | **10** |   **10**  |    --- |   ---  |   ---  |   ---  |   ---  |
-| **Rodríguez Asensio,**<br></br>**Artemio** | **10** | **10** |   **10**  |   ---  |  ---   |  ---   |  ---   |    --- |
-| **De Bustamante Lucena,**<br></br>**Eduardo** | **10** | **10** |  **10**   |   ---  |   ---  |   ---  |   ---  |   ---  |
-| **Barroso Barroso,**<br></br>**Fernando** | **10** | **10** |   **10**  |   ---  |   ---  |  ---   |  ---   |   ---  |
-| **Santiago Martín,**<br></br>**Gonzalo** | **10** | **10** |   **10**  |   ---  |   ---  |   ---  |   ---  |  ---  |
-| **Pacheco Rodrigues,**<br></br>**Guillermo Alonso** | **10** | **10** |  **10**   |  ---   |   --- |  ---   |  ---   |  ---   |
-| **Caballero Hernández,**<br></br>**Jaime** | **10** | **10** |   **10**  |   ---  |   ---  |   ---  |   ---  |   ---  |
-| **Nunes Ruiz,**<br></br>**Javier** | **10** | **10** |   **10**  |   ---  |   ---  |  ---   |  ---   |   ---  |
-| **Rodríguez Cordero,**<br></br>**Javier** | **10** | **10** |  **10**   |   ---  |   ---  |   ---  |  ---   |   ---  |
-| **Martínez Cano,**<br></br>**Juan** | **10** | **10** |   **10**  |  ---   |  ---   |  ---   |   ---  |  ---   |
-| **Roca Rodríguez,**<br></br>**Marco Antonio** | **10** | **10** |   **10**  |   ---  |   ---  |  ---   |   ---  |   ---  |
-| **Sánchez Naranjo,**<br></br>**Mario** | **10** | **10** |   **10**  |   ---  |  ---   |   ---  |   ---  |  ---   |
-| **Pablo Martínez Valladares** | **10** | **10** |  **10**   |  ---   |   ---  |   ---  |   ---  |  ---   |
-| **Total** | **170** | **170** |  **170**   |  ---  |   ---  |  ---   |  ---   |   ---  |
+| **Vargas Castro,**<br></br>**Francisco José** | **10** | **10** |  **10**   |  **10**  |   ---  |   ---  |  ---   |  ---   |
+| **Benítez Morales,**<br></br>**Alberto** | **10** | **10** |  **10**   |  **9**   |   ---  |   ---  |   ---  |   ---  |
+| **Carrera Bernal,**<br></br>**Álvaro** | **10** | **10** |  **10**   |   **10**  |  ---   |   ---  |    --- |   ---  |
+| **Navarro Rivera,**<br></br>**Álvaro** | **10** | **10** |   **10**  |  **10**  |  ---   | ---    |  ---   |   ---  |
+| **Sánchez Flores,**<br></br>**Álvaro José** | **10** | **10** |   **10**  |    **10** |   ---  |   ---  |   ---  |   ---  |
+| **Rodríguez Asensio,**<br></br>**Artemio** | **10** | **10** |   **10**  |   **10**  |  ---   |  ---   |  ---   |    --- |
+| **De Bustamante Lucena,**<br></br>**Eduardo** | **10** | **10** |  **10**   |   **10**  |   ---  |   ---  |   ---  |   ---  |
+| **Barroso Barroso,**<br></br>**Fernando** | **10** | **10** |   **10**  |   **10**  |   ---  |  ---   |  ---   |   ---  |
+| **Santiago Martín,**<br></br>**Gonzalo** | **10** | **10** |   **10**  |   **10**  |   ---  |   ---  |   ---  |  ---  |
+| **Pacheco Rodrigues,**<br></br>**Guillermo Alonso** | **10** | **10** |  **10**   |  **10**   |   --- |  ---   |  ---   |  ---   |
+| **Caballero Hernández,**<br></br>**Jaime** | **10** | **10** |   **10**  |   **10**  |   ---  |   ---  |   ---  |   ---  |
+| **Nunes Ruiz,**<br></br>**Javier** | **10** | **10** |   **10**  |   **10**  |   ---  |  ---   |  ---   |   ---  |
+| **Rodríguez Cordero,**<br></br>**Javier** | **10** | **10** |  **10**   |   **10**  |   ---  |   ---  |  ---   |   ---  |
+| **Martínez Cano,**<br></br>**Juan** | **10** | **10** |   **10**  |  **10**   |  ---   |  ---   |   ---  |  ---   |
+| **Roca Rodríguez,**<br></br>**Marco Antonio** | **10** | **10** |   **10**  |   **9**  |   ---  |  ---   |   ---  |   ---  |
+| **Sánchez Naranjo,**<br></br>**Mario** | **10** | **10** |   **10**  |   **10**  |  ---   |   ---  |   ---  |  ---   |
+| **Pablo Martínez Valladares** | **10** | **10** |  **10**   |  **10**   |   ---  |   ---  |   ---  |  ---   |
+| **Total** | **170** | **170** |  **170**   |  **168**  |   ---  |  ---   |  ---   |   ---  |
 
 
 Individual Contribution Summary
@@ -763,3 +763,177 @@ Individual Contribution Summary
 - Preparación de diapositivas para las presentaciones
 - Recolección de feedback en clase 
 - Modificar software review guidelines con nuevas funcionalidades
+
+### NAVARRO RIVERA, ÁLVARO
+
+- Nuevos formularios para usuarios piloto.
+- Recogida de feedback de usuarios piloto.
+- Edición de las demos semana 9 y 10.
+- Usuario Piloto de Ocial (Grupo 2).
+- Actualizar presentación semanas 9 y 10.
+- Revisión de varias pull request.
+- Comunicación con usuarios piloto.
+- Preparación de la entrega + revisión de failure conditions.
+- Recogida de metricas de rendimiento
+
+### RODRÍGUES ASENSIO, ARTEMIO
+
+- Asistir a clases y realizar en clase la 1º parte de la presentación(todas las semanas lectivas)
+- Preparar el guión de la presentación(1º parte) y revisar la 2º parte(todas las semanas)
+- Grabar parte de la demo (rol de empresa y empleado, semana 10)
+- Revisar la presentación (el “powerpoint”, todas las semanas)
+- Realizar ensayos individuales de presentación, así como grupales junto a mi compañero Francisco Vargas que presenta la 2º parte (todas las semanas)
+- Ver las píldoras teóricas
+- Configurar el SonarQube y resolver problemas asociadas a la cobertura de pruebas
+- Ajustar Política de Privacidad y Términos y Condiciones acorde a la píldora “GDPR and UX”
+- Revisión de las tareas del subgrupo 2
+- Ajustes en la tarea de aplicación a ofertas (UX)
+- Crear la funcionalidad de contratar a un empleado y visualizar empleados que pertenecen al servicio de catering
+- Crear la funcionalidad de despedir a un empleado o modificar su contrato
+- Crear la funcionalidad de gestión de tareas
+- Asistir a las reuniones de planning de mi subgrupo 3(todas las semanas)
+- Asistir a las reuniones del grupo general(Sprint -Review, Retrospective, semana 10)
+
+
+### Carrera Bernal, Álvaro
+
+- Documento con estrategias de marketing.
+- Arreglar los tests de Reservas.
+- Tests de vista de User Login & Logout, Proceso de reserva.
+- Revisión de la tarea de confirmación de email.
+- Añadir la paginación en las reservas de un Particular.
+- Arreglar el proceso de reservas.
+- Arreglar la url del proceso de reservas.
+- Reunion planificacion semana 10 (Sprint 3 Week 2).
+- Asistir a clases teóricas.
+- Realizar la presentación de la semana 9 y 10.
+- Ver las píldoras teóricas.
+
+### Barroso Barroso, Fernando
+
+- Implementación de la confirmación del registro de usuario por correo.
+- Traducción de vistas del español al inglés.
+- Manejo de errores en el login de usuario.
+- Actualización de costes para la semana 9.
+- Reunión planificación semana 10.
+- Revisión de las pull request del subgrupo 1.
+- Asistir a clases teóricas.
+- Realizar la presentación de la semana 9 y 10.
+- Ver las píldoras teóricas.
+
+### Caballero Hernández, Jaime
+
+- Mejora de la estimación de costes
+- Ver todas las píldoras teóricas.
+- Usuario piloto de grupo 2 de ISPP.
+- Presentación semanas W9 y W10.
+- Revisión de las tareas del subgrupo 1(ver pull request)
+- Revisión de las pull request del subgrupo 1
+- Gráfica estado actual del proyecto
+- Implementación del chat de clientes con caterings (Pair programming)
+- Implementación del chat de empleados con caterings (Pair programming)
+
+### Santiago Martín, Gonzalo
+
+- Revisión de pull requests del subgrupo 1.
+- Reunión de planificación W9.
+- Ver píldoras teóricas.
+- Asistir a clases de teoría.
+- Implementación del chat de clientes con caterings (Pair programming)
+- Implementación del chat de empleados con caterings (Pair programming)
+- Despliegue de la aplicación para el Sprint 3.
+- Revisión y solución de conflictos para el despliegue.
+
+### Sanchez Flores, Alvaro
+
+- Revisión de pull requests del subgrupo 1.
+- Gráfica de estimaciones de costes.
+- Ver píldoras teóricas.
+- Asistir a clases de teoría.
+- Nueva versión del documento de costes y beneficios.
+- Hacer de usuario piloto para Ocial.
+- Asistir a las reuniones del grupo general(Sprint Review, Retrospective, semana 10).
+- Presentaciones de W9 y W10.
+- Aporte a la base de gestión de conocimiento común.
+
+### Nunes Ruiz, Javier
+
+- Ver píldoras teóricas.
+- Asistir a clases de teoría.
+- Documento de reporte de tiempos actualizado cada semana con sus respectivas gráficas y asignación de cada una de las etiquetas de tipos de tareas.
+- Mejora y unificación de estilos de la aplicación del módulo principal, particular y parte de la del catering.
+
+### Martínez Cano, Juan
+
+- Ver píldoras teóricas.
+- Asistir a clases de teoría.
+- Creación de la presentación W09.
+- Creación de la presentación W10.
+- Elaboración de test visuales.
+- Mejoras visuales de la aplicación.
+- Creación de plan de marketing.
+- Mejoras de seguridad de la aplicación.
+- Arreglos de fallos de la aplicación.
+
+### Bustamante Lucena, Eduardo
+
+- Ver píldoras teóricas.
+- Asistir a clases de teoría.
+- Creación de la presentación W09.
+- Creación de la presentación W10.
+- Elaboración de test visuales (Selenium).
+- Mejoras visuales de la aplicación.
+- Añadir la paginación en las reservas de un Particular.
+- Mejoras de seguridad de la aplicación.
+- Revisión Tarea W10-F022: Confirmation Email.
+
+### Rodríguez Cordero, Javier
+
+- Ver píldoras teóricas.
+- Asistir a clases de teoría.
+- Creación del plan de marketing.
+- Mejoras en la interfaz de la aplicación.
+- Elaboración de tests visuales (selenium).
+- Mejoras de seguridad de la aplicación.
+- Arreglo de tests relativos al Booking.
+- Revisión Tarea W10-F022: Confirmation Email.
+
+### Pacheco Rodrigues, Guillermo Alonso
+
+- Ver pildoras teóricas.
+- Asistir a clases de teoría.
+- Anuncio semana 9
+- Presentación semana 9
+- Revisión tarea W9-R043: Chat Client
+- Anuncio semana 10
+- Presentación semana 10
+- Commit Changelog Sprint 3
+- Reuniones Sprint Planning y Sprint Restrospective
+
+### Martínez Valladares, Pablo
+
+- Ver píldoras teóricas
+- Asistir a clase de teoría
+- Desarrollar frontend de gestión de platos
+- Arreglar frontend de gestión de menús
+- Arreglar el populado de datos para que los datos tengan sentido
+- Revisar tareas del subgrupo 2
+- Unificar los estilos del frontend
+
+### Benítez Morales, Alberto
+
+- Reuniones sprint planning
+- Asistencia a clases
+- Píldoras teóricas
+- Plan de precio particular
+- Software review
+- Revisión de tareas subgrupo 3
+
+### Roca Rodríguez, Marco Antonio
+
+- Píldoras teóricas
+- Asistencia a clase
+- Sprint Planning W9
+- Contratar empleado
+- Rechazar empleado
+- Arreglo de contratación de empleados

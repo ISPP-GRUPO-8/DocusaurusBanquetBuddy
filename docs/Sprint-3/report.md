@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Contribución a la base de conocimiento común'
+sidebar_label: 'Contribución a la base de conocimiento común (report.md)'
 sidebar_position: 3
 ---
 
