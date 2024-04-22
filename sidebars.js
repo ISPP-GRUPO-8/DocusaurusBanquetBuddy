@@ -66,7 +66,10 @@ const sidebars = {
       type: 'category',
       label: 'Sprint 3',
       items: ['Sprint-3/PerformanceEvaluation', 'Sprint-3/AI-usage', 'Sprint-3/pilots', 'Sprint-3/pilotUsersCommitmentAgreementMorningGroup', 'Sprint-3/pilotUsersCommitmentAgreementExternal',
-        'Sprint-3/InformationProvidedByPilotUsers', 'Sprint-3/PilotUserPerformanceEvaluationForm', 'Sprint-3/report', 'Sprint-3/Cost-analysis', 'Sprint-3/Project-Statement', 'Sprint-3/Time-effort-report'],
+        'Sprint-3/InformationProvidedByPilotUsers', 'Sprint-3/PilotUserPerformanceEvaluationForm', 'Sprint-3/report', 'Sprint-3/Cost-analysis', 'Sprint-3/Project-Statement',
+        'Sprint-3/Time-effort-report', 'Sprint-3/PerformanceMetrics', 'Sprint-3/revision', 'Sprint-3/Presentacion'],
+
+
 
 
     },
