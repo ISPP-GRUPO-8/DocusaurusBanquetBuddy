@@ -21,23 +21,22 @@ Curso 2023 – 2024
 
 | **Grupo de prácticas: 8** |
 | --- |
-| Alberto Benitez Morales |
-| Álvaro Carrera Bernal |
-| Álvaro Navarro Rivera |
-| Álvaro Jose Sanchez Flores |
-| Artemio Rodriguez Asensio |
-| Eduardo de Bustamante Lucena |
-| Fernando Barroso Barroso |
-| Francisco Jose Vargas Castro |
-| Gonzalo Santigo Martín |
-| Guillermo Alonso Pacheco Rodrigues |
-| Jaime Caballero Hernandez |
-| Javier Nunes Ruiz |
-| Javier Rodríguez Cordero |
-| Juan Martínez Cano |
-| Marco Antonio Roca Rodríguez |
-| Mario Sanchez Naranjo |
-| Pablo Martínez Valladares |
+| Alberto Benitez Morales - Autor, Revisor |
+| Álvaro Carrera Bernal - Autor, Revisor  |
+| Álvaro Navarro Rivera - Autor, Revisor  |
+| Álvaro Jose Sanchez Flores - Autor, Revisor  |
+| Artemio Rodriguez Asensio - Autor, Revisor  |
+| Eduardo de Bustamante Lucena - Autor, Revisor  |
+| Fernando Barroso Barroso - Autor, Revisor  |
+| Gonzalo Santigo Martín - Autor, Revisor  |
+| Guillermo Alonso Pacheco Rodrigues - Autor, Revisor  |
+| Jaime Caballero Hernandez - Autor, Revisor  |
+| Javier Nunes Ruiz - Autor, Revisor  |
+| Javier Rodríguez Cordero - Autor, Revisor  |
+| Juan Martínez Cano - Autor, Revisor  |
+| Marco Antonio Roca Rodríguez - Autor, Revisor  |
+| Mario Sanchez Naranjo - Autor, Revisor  |
+| Pablo Martínez Valladares - Autor, Revisor  |
 
 **Control de Versiones**
 
@@ -756,7 +755,7 @@ Individual Contribution Summary
 - Configuración de Selenium y Locust para pruebas de vista y carga
 - Modificación de Workflow de Github Actions
 - Implementación de pruebas de vista y carga de funcionalidades del subgrupo 3
-- Revisiones de pull request de 
+- Revisiones de pull request del subgrupo 2
 - Modificación de poblado de base de datos
 - Preparar entrega(preparar documentos en el docusaurus)+revisión de failure conditions
 - Participación en sprint planning de la semana 10
