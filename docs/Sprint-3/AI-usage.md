@@ -1,12 +1,12 @@
 ---
-sidebar_label: 'Reporte de IA'
+sidebar_label: 'Reporte de IA (AI-Usage.md)'
 sidebar_position: 3
 ---
 
 Universidad de Sevilla  
 Escuela Técnica Superior de Ingeniería Informática
 
-Sprint 2
+Sprint 3
 
 BunquetBuddy
 
@@ -64,14 +64,17 @@ Curso 2023 – 2024
 
 | **IA Utilizada** | **Para qué la hemos utilizado** | **Nº de conversaciones** | **Tiempo utilización** |
 | --- | --- | --- | --- |
-| ChatGPT | --- |   ---  | --- |
-| --- | --- | --- | --- |
-| Gemini | --- |  ---   |  ---   |
+| ChatGPT | Se ha utilizado chatgpt para facilitar la implementación de la funcionalidad de Opiniones y Reportes |  1   | 10 min |
+| ElevenLabs | Narrar anuncio | 1 | 20 min |
+| Suno | Canción para anuncio |   1  |   10 min  |
 | --- | --- | --- | --- |
 
 **Prompts utilizados:**
 
 ChatGPT:
+  - "Las empresas de catering deben obtener información valiosa sobre su rendimiento y generar reportes con datos estadísticos."
+    - Enlace: https://chat.openai.com/share/7fa67b08-08c9-4656-b192-a6d86b251330 
+
 
 
 
@@ -128,8 +131,10 @@ Github Copilot:
 
 **Prompts utilizados(algunos):**
 
-[prompt 1](https://chat.openai.com/share/2eae6114-a6f7-405b-8e42-e2fe1109251b)
-[propmt 2](https://chat.openai.com/c/ee6fc49d-b41a-4751-be02-5445208f0749)
+- "Como configurar selenium y Locust en django"
+- "Como puedo modificar github actions para que detecte el uso de selenium en los tests"
+- "Los siguientes tests me dan un error X que significa dicho error"
+
 #
 
 #

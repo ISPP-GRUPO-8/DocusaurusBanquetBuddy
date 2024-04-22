@@ -8,7 +8,7 @@ Version: 3.0
 Universidad de Sevilla  
 Escuela Técnica Superior de Ingeniería Informática
 
-Sprint 2
+Sprint 3
 
 BanquetBuddy
 
@@ -21,23 +21,22 @@ Curso 2023 – 2024
 
 | **Grupo de prácticas: 8** |
 | --- |
-| Alberto Benitez Morales |
-| Álvaro Carrera Bernal |
-| Álvaro Navarro Rivera |
-| Álvaro Jose Sanchez Flores |
-| Artemio Rodriguez Asensio |
-| Eduardo de Bustamante Lucena |
-| Fernando Barroso Barroso |
-| Francisco Jose Vargas Castro |
-| Gonzalo Santigo Martín |
-| Guillermo Alonso Pacheco Rodrigues |
-| Jaime Caballero Hernandez |
-| Javier Nunes Ruiz |
-| Javier Rodríguez Cordero |
-| Juan Martínez Cano |
-| Marco Antonio Roca Rodríguez |
-| Mario Sanchez Naranjo |
-| Pablo Martínez Valladares |
+| Alberto Benitez Morales - Autor, Revisor |
+| Álvaro Carrera Bernal - Autor, Revisor  |
+| Álvaro Navarro Rivera - Autor, Revisor  |
+| Álvaro Jose Sanchez Flores - Autor, Revisor  |
+| Artemio Rodriguez Asensio - Autor, Revisor  |
+| Eduardo de Bustamante Lucena - Autor, Revisor  |
+| Fernando Barroso Barroso - Autor, Revisor  |
+| Gonzalo Santigo Martín - Autor, Revisor  |
+| Guillermo Alonso Pacheco Rodrigues - Autor, Revisor  |
+| Jaime Caballero Hernandez - Autor, Revisor  |
+| Javier Nunes Ruiz - Autor, Revisor  |
+| Javier Rodríguez Cordero - Autor, Revisor  |
+| Juan Martínez Cano - Autor, Revisor  |
+| Marco Antonio Roca Rodríguez - Autor, Revisor  |
+| Mario Sanchez Naranjo - Autor, Revisor  |
+| Pablo Martínez Valladares - Autor, Revisor  |
 
 **Control de Versiones**
 
@@ -57,7 +56,7 @@ Date: \_**\_04/03/2024_\_**
 | **Vargas Castro,**<br></br>**Francisco José** | **10** | **10** |  **10**   |  ---   |   ---  |   ---  |  ---   |  ---   |
 | **Benítez Morales,**<br></br>**Alberto** | **10** | **10** |  **10**   |  ---   |   ---  |   ---  |   ---  |   ---  |
 | **Carrera Bernal,**<br></br>**Álvaro** | **10** | **10** |  **10**   |   ---  |  ---   |   ---  |    --- |   ---  |
-| **Navarro Rivera,**<br></br>**Álvaro** | **10** | **10** |   **10**  |   ---  |  ---   | ---    |  ---   |   ---  |
+| **Navarro Rivera,**<br></br>**Álvaro** | **10** | **10** |   **10**  |  ---  |  ---   | ---    |  ---   |   ---  |
 | **Sánchez Flores,**<br></br>**Álvaro José** | **10** | **10** |   **10**  |    --- |   ---  |   ---  |   ---  |   ---  |
 | **Rodríguez Asensio,**<br></br>**Artemio** | **10** | **10** |   **10**  |   ---  |  ---   |  ---   |  ---   |    --- |
 | **De Bustamante Lucena,**<br></br>**Eduardo** | **10** | **10** |  **10**   |   ---  |   ---  |   ---  |   ---  |   ---  |
@@ -750,3 +749,47 @@ Individual Contribution Summary
 - Guión demo presentación del sprint 3.
 - Diapositivas de la presentacion 1 del sprint 3.
 - Revisión de los security hotspots en sonarcloud.
+
+### SÁNCHEZ NARANJO, MARIO
+
+- Configuración de Selenium y Locust para pruebas de vista y carga
+- Modificación de Workflow de Github Actions
+- Implementación de pruebas de vista y carga de funcionalidades del subgrupo 3
+- Revisiones de pull request del subgrupo 2
+- Modificación de poblado de base de datos
+- Preparar entrega(preparar documentos en el docusaurus)+revisión de failure conditions
+- Participación en sprint planning de la semana 10
+- Revisión del CO2
+- Preparación de diapositivas para las presentaciones
+- Recolección de feedback en clase 
+- Modificar software review guidelines con nuevas funcionalidades
+
+### NAVARRO RIVERA, ÁLVARO
+
+- Nuevos formularios para usuarios piloto.
+- Recogida de feedback de usuarios piloto.
+- Edición de las demos semana 9 y 10.
+- Usuario Piloto de Ocial (Grupo 2).
+- Actualizar presentación semanas 9 y 10.
+- Revisión de varias pull request.
+- Comunicación con usuarios piloto.
+- Preparación de la entrega + revisión de failure conditions.
+- Recogida de metricas de rendimiento
+
+### RODRÍGUES ASENSIO, ARTEMIO
+
+- Asistir a clases y realizar en clase la 1º parte de la presentación(todas las semanas lectivas)
+- Preparar el guión de la presentación(1º parte) y revisar la 2º parte(todas las semanas)
+- Grabar parte de la demo (rol de empresa y empleado, semana 10)
+- Revisar la presentación (el “powerpoint”, todas las semanas)
+- Realizar ensayos individuales de presentación, así como grupales junto a mi compañero Francisco Vargas que presenta la 2º parte (todas las semanas)
+- Ver las píldoras teóricas
+- Configurar el SonarQube y resolver problemas asociadas a la cobertura de pruebas
+- Ajustar Política de Privacidad y Términos y Condiciones acorde a la píldora “GDPR and UX”
+- Revisión de las tareas del subgrupo 2
+- Ajustes en la tarea de aplicación a ofertas (UX)
+- Crear la funcionalidad de contratar a un empleado y visualizar empleados que pertenecen al servicio de catering
+- Crear la funcionalidad de despedir a un empleado o modificar su contrato
+- Crear la funcionalidad de gestión de tareas
+- Asistir a las reuniones de planning de mi subgrupo 3(todas las semanas)
+- Asistir a las reuniones del grupo general(Sprint -Review, Retrospective, semana 10)
