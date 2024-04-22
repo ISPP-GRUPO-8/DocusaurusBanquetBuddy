@@ -57,7 +57,7 @@ Date: \_**\_04/03/2024_\_**
 | **Vargas Castro,**<br></br>**Francisco José** | **10** | **10** |  **10**   |  ---   |   ---  |   ---  |  ---   |  ---   |
 | **Benítez Morales,**<br></br>**Alberto** | **10** | **10** |  **10**   |  ---   |   ---  |   ---  |   ---  |   ---  |
 | **Carrera Bernal,**<br></br>**Álvaro** | **10** | **10** |  **10**   |   ---  |  ---   |   ---  |    --- |   ---  |
-| **Navarro Rivera,**<br></br>**Álvaro** | **10** | **10** |   **10**  |   ---  |  ---   | ---    |  ---   |   ---  |
+| **Navarro Rivera,**<br></br>**Álvaro** | **10** | **10** |   **10**  |  ---  |  ---   | ---    |  ---   |   ---  |
 | **Sánchez Flores,**<br></br>**Álvaro José** | **10** | **10** |   **10**  |    --- |   ---  |   ---  |   ---  |   ---  |
 | **Rodríguez Asensio,**<br></br>**Artemio** | **10** | **10** |   **10**  |   ---  |  ---   |  ---   |  ---   |    --- |
 | **De Bustamante Lucena,**<br></br>**Eduardo** | **10** | **10** |  **10**   |   ---  |   ---  |   ---  |   ---  |   ---  |
@@ -764,3 +764,15 @@ Individual Contribution Summary
 - Preparación de diapositivas para las presentaciones
 - Recolección de feedback en clase 
 - Modificar software review guidelines con nuevas funcionalidades
+
+### NAVARRO RIVERA, ÁLVARO
+
+- Nuevos formularios para usuarios piloto.
+- Recogida de feedback de usuarios piloto.
+- Edición de las demos semana 9 y 10.
+- Usuario Piloto de Ocial (Grupo 2).
+- Actualizar presentación semanas 9 y 10.
+- Revisión de varias pull request.
+- Comunicación con usuarios piloto.
+- Preparación de la entrega + revisión de failure conditions.
+- Recogida de metricas de rendimiento
