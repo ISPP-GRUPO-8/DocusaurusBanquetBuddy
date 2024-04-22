@@ -71,7 +71,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Sprint 3',
-      items: ['Sprint-3/PerformanceEvaluation', 'Sprint-3/AI-usage'],
+      items: ['Sprint-3/PerformanceEvaluation', 'Sprint-3/AI-usage', 'Sprint-3/report',],
 
     },
 
