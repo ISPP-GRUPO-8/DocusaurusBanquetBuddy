@@ -8,7 +8,7 @@ Version: 3.0
 Universidad de Sevilla  
 Escuela Técnica Superior de Ingeniería Informática
 
-Sprint 2
+Sprint 3
 
 BanquetBuddy
 
@@ -775,3 +775,21 @@ Individual Contribution Summary
 - Comunicación con usuarios piloto.
 - Preparación de la entrega + revisión de failure conditions.
 - Recogida de metricas de rendimiento
+
+### RODRÍGUES ASENSIO, ARTEMIO
+
+- Asistir a clases y realizar en clase la 1º parte de la presentación(todas las semanas lectivas)
+- Preparar el guión de la presentación(1º parte) y revisar la 2º parte(todas las semanas)
+- Grabar parte de la demo (rol de empresa y empleado, semana 10)
+- Revisar la presentación (el “powerpoint”, todas las semanas)
+- Realizar ensayos individuales de presentación, así como grupales junto a mi compañero Francisco Vargas que presenta la 2º parte (todas las semanas)
+- Ver las píldoras teóricas
+- Configurar el SonarQube y resolver problemas asociadas a la cobertura de pruebas
+- Ajustar Política de Privacidad y Términos y Condiciones acorde a la píldora “GDPR and UX”
+- Revisión de las tareas del subgrupo 2
+- Ajustes en la tarea de aplicación a ofertas (UX)
+- Crear la funcionalidad de contratar a un empleado y visualizar empleados que pertenecen al servicio de catering
+- Crear la funcionalidad de despedir a un empleado o modificar su contrato
+- Crear la funcionalidad de gestión de tareas
+- Asistir a las reuniones de planning de mi subgrupo 3(todas las semanas)
+- Asistir a las reuniones del grupo general(Sprint -Review, Retrospective, semana 10)

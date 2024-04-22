@@ -1,12 +1,12 @@
 ---
-sidebar_label: 'Reporte de IA'
+sidebar_label: 'Reporte de IA (AI-Usage.md)'
 sidebar_position: 3
 ---
 
 Universidad de Sevilla  
 Escuela Técnica Superior de Ingeniería Informática
 
-Sprint 2
+Sprint 3
 
 BunquetBuddy
 

@@ -61,17 +61,12 @@ const sidebars = {
 
     },
 
-    {
-      type: 'category',
-      label: 'Semana 9',
-      items: ['Semana 9/AI-usage'],
-
-    },
 
     {
       type: 'category',
       label: 'Sprint 3',
-      items: ['Sprint-3/PerformanceEvaluation', 'Sprint-3/AI-usage', 'Sprint-3/pilots'],
+      items: ['Sprint-3/PerformanceEvaluation', 'Sprint-3/AI-usage', 'Sprint-3/pilots', 'Sprint-3/pilotUsersCommitmentAgreementMorningGroup', 'Sprint-3/pilotUsersCommitmentAgreementExternal',
+      ],
 
     },
 

@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Contrato de usuarios piloto'
+sidebar_label: 'Contrato de usuarios piloto externos(pilotUserCommitmentAgreement.md)'
 sidebar_position: 3
 ---
 **Pilot user contract**
