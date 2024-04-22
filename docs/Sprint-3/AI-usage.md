@@ -168,7 +168,9 @@ Github Copilot:
 
 | **IA Utilizada** | **Para qué la hemos utilizado** | **Nº de conversaciones** | **Tiempo utilización** |
 | --- | --- | --- | --- |
-|     |     |     |     |
+| Copilot | Generación del correo de confirmación para el registro del usuario | 4 | 30 minutos |
 | --- | --- | --- | --- |
 
+
 **Prompts utilizados:**
+- "Quiero añadir una funcionalidad al registro de usuarios de mi aplicación para que cuando un usuario se registre le llegue un correo de confirmación"
