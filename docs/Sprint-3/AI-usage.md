@@ -123,8 +123,13 @@ Github Copilot:
 
 | **IA Utilizada** | **Para qué la hemos utilizado** | **Nº de queries** | **Tiempo utilización** |
 | --- | --- | --- | --- |
-| ChatGPT | --- |--- |--- |
-| --- | --- | --- | --- |
+| ChatGPT | Ajustar funcionalidad de aplicación a ofertas |127 |10 horas |
+| --- |Crear la funcionalidad de contratar a un empleado y despedirlo o modificar su contrato
+| --- |Mejorar aspectos UX de la parte de empleo en general
+| --- |Crear la funcionalidad de gestión de tareas 
+| --- | Uso de Selenium
+| --- | Ayuda en los test
+| GitHub Copilot | Utilizar la funcionalidad de “Quick fix con copilot” en VisualCode para ajustes puntuales como imports faltantes/incorrectos, nombres de variables incorrectos y etc| 12 | 0.5 hora aprox. |
 | --- |---| --- | --- |
 | --- | --- | --- | --- |
 
