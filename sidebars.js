@@ -73,7 +73,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Preparing Project Launch',
-      items: ['Preparing Project Launch/PerformanceEvaluation'],
+      items: ['Preparing Project Launch/PerformanceEvaluation', 'Preparing Project Launch/Model-Segmentation'],
     },
 
     {
