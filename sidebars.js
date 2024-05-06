@@ -73,7 +73,9 @@ const sidebars = {
     {
       type: 'category',
       label: 'Preparing Project Launch',
-      items: ['Preparing Project Launch/PerformanceEvaluation', 'Preparing Project Launch/ModelSegmentation'],
+      items: ['Preparing Project Launch/PerformanceEvaluation', 'Preparing Project Launch/ModelSegmentation', 'Preparing Project Launch/Cost-analysis', 
+      'Preparing Project Launch/report',
+      ],
     },
 
     {
