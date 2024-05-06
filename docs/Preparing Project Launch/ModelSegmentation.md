@@ -1,5 +1,20 @@
 # Segmentación del Mercado para BanquetBuddy
 
+
+| Fecha      | Versión | Descripción                   |
+|------------|---------|-------------------------------|
+| 29/04/2024 | 1.0     | Creación del documento       |
+| 05/05/2024 | 1.1     | Modificaciones tras feedback |
+
+
+
+Universidad de Sevilla  
+Escuela Técnica Superior de Ingeniería Informática
+
+Preparing Project Launch
+
+BanquetBuddy
+
 ## 1. Análisis de Segmentación del Mercado
 
 ### 1.1 Tipos de Segmentación:
