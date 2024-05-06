@@ -1,6 +1,6 @@
 Universidad de Sevilla
 
-Escuela Técnica Superior de Ingeniería Informática Sprint 3
+Escuela Técnica Superior de Ingeniería Informática Preparing Project Launch
 
 BanquetBuddy
 
