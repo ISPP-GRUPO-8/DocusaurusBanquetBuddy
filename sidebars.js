@@ -75,7 +75,7 @@ const sidebars = {
       label: 'Preparing Project Launch',
       items: ['Preparing Project Launch/PerformanceEvaluation', 'Preparing Project Launch/ModelSegmentation', 'Preparing Project Launch/Cost-analysis',
         'Preparing Project Launch/InvestmentOpportunities', 'Preparing Project Launch/SEOoptimization', 'Preparing Project Launch/pilots', 'Preparing Project Launch/pilotUsersCommitmentAgreementMorningGroup', 'Preparing Project Launch/pilotUsersCommitmentAgreementExternal',
-        'Preparing Project Launch/InformationProvidedByPilotUsers', 'Preparing Project Launch/PilotUserPerformanceEvaluationForm', 'Preparing Project Launch/report', 'Preparing Project Launch/revision','Preparing Project Launch/AI-usage'
+        'Preparing Project Launch/InformationProvidedByPilotUsers', 'Preparing Project Launch/PilotUserPerformanceEvaluationForm', 'Preparing Project Launch/report', 'Preparing Project Launch/revision','Preparing Project Launch/AI-usage','Preparing Project Launch/Presentacion'
 
       ],
     },
