@@ -85,7 +85,7 @@ Para el presupuesto de personal hemos utilizado los siguientes salarios basados 
 | RGPD | 25.00 |
 | Community manager | 15.00 |
 
-El proyecto es llevado a cabo por 17 personas, teniendo cada una uno o más roles asignados. El total de tiempo estimado para este proyecto es de 2250 horas, resultando en un coste de 68585€. Este coste está desglosado en un total de 17.100€ para costes sociales (25 % del total de los sueldos en bruto) y 51.485€ de salarios.
+El proyecto es llevado a cabo por 17 personas, teniendo cada una uno o más roles asignados. El total de tiempo estimado para este proyecto es de 2250 horas, resultando en un coste de 68585€. Este coste está desglosado en un total de 17.100€ para costes sociales (25 % del total de los sueldos en bruto) y 51.485€ de salarios netos.
 
 Para el coste de licencias hemos estimado el coste usando la calculadora de github teniendo en cuenta tanto el número de personas que intervienen en el desarrollo como las horas de github actions y la dimensión del proyecto anteriormente mencionada, resultando en un coste de 948€.
 
