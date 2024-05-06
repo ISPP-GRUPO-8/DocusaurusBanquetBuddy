@@ -32,6 +32,7 @@ sidebar_position: 3
 | --- | --- | --- |
 | 04/03/2024 | 1.0 | Primera versión del documento |
 | 21/04/2024 | 2.0 | Entregable Sprint 3 |
+| 05/05/2024 | 3.0 | Entregable PPL |
 | --- | --- | --- |
 
 ## URL de docusaurus
@@ -53,6 +54,10 @@ En la semana 8 destacamos la importancia de mejorar el aspecto visual de algunas
 
 En la semana 9 se nos pidió comenzar la campaña de marketing, asi cómo seguir mejorando la demo tanto la visualización como hacer un resumen previo de lo que se va a mostrar y los tipos de usuarios que están usando la aplicación en cada momento.
 
+En la semana 10 hicieron hincapié en realizar la demo con más energía, hacer el killer opener más visual y hacer el anuncio menos escueto. También mencionaron que deberiamos mejorar el análisis de riesgos mostrado.
+
+En la semana 11 tuvimos bastantes comentarios para mejorar nuestra presentación, prestando especial atención a usar información más concreta en todo lo relacionado al márketing, ya que, era todo bastante generalizado. Además, dejar de usar vocabulario técnico (matchmaking, B2B...) y seguir realizando mejoras en la DEMO. Por último, intentar contactar con influencers relacionados con nuestro servicio.
+
 ## Feedback general
 
 Con respecto al feedback general, hemos añadido contenido en la sección de análisis de coste y en la de presentaciones.
@@ -63,7 +68,9 @@ En la Semana 4, se sugirió hacer estimaciones de costes (pesimistas, optimistas
 
 En la semana 8 incluimos el feedback de hacer commitment agreement con los usuarios piloto.
 
-En la semana 9 reflejamos la petición de incluir en los presupuestos el salario de los nuevos roles pedidos Community Manager y RGPD
+En la semana 9 reflejamos la petición de incluir en los presupuestos el salario de los nuevos roles pedidos Community Manager y RGPD.
+
+En la semana 11 incluimos la petición de implementar la gráfica de costes vs beneficios en el propio anuncio y además con respecto a la segmentación de mercado ser concretos y representarla de una manera visual.
 
 ## Acciones de consolidación
 
@@ -72,5 +79,8 @@ Con respecto al feedback de los usuarios piloto hemos aplicado algunas mejoras s
 El feedback recogido de los profesores ha sido también aplicado, principalmente realizando un cambio en el análisis de costes, reflejando Capex y Opex y además incluyendo salarios nuevos como los de Community Manager y RGPD. Además hemos ajustado la demo de la presentación con respecto a las sugerencias en las sesiones de seguimiento y hemos mejorado la interfaz de la aplicación tal y como nos sugirieron. 
 Para finalizar hemos realizado una mejora en el anuncio usando la herramienta sugerida por Carlos y mejorado la visualización en general de las presentaciones conforme a los consejos de los profesores.
 
+El feedback de los profesores correspondiente a las semanas 10 y 11 ha sido aplicado principalmente en el contenido de las presentaciones y los documentos, ya sea en el desarrollo de la demo y los anuncios como en el contenido de la propia presentación.
+
+En cuanto al feedback recibido por los usuarios pilotos también hemos realizado cambios, siendo algunos: incluir mensaje de que no tienes carta de recomendación, en caso de no tenerla, errores durante el proceso de reserva de booking mostrados en la pantalla de inicio al finalizar la reserva, falta de notificación sobre la necesidad de iniciar sesión con correo electrónico, imposibilidad de reservar en el presente, solo en el futuro; al intentar reservar en el presente la aplicación reconoce la fecha como pasado, mensaje de error incorrecto al retroceder en la pasarela de pago de reserva de catering, posibilidad de valorar un catering antes de asistir a él.
 
 
