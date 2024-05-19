@@ -55,24 +55,24 @@ Date: \_**\_04/03/2024_\_**
 
 | **Student** | **#DP1** | **#S1** | **#S2** | **#S3** | **#PPL** | **#WPL** | **Total** | **Weight** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Vargas Castro,**<br></br>**Francisco José** | **10** | **10** |  **10**   |  **10**  |   ---  |   ---  |  ---   |  ---   |
-| **Benítez Morales,**<br></br>**Alberto** | **10** | **10** |  **10**   |  **9**   |   ---  |   ---  |   ---  |   ---  |
-| **Carrera Bernal,**<br></br>**Álvaro** | **10** | **10** |  **10**   |   **10**  |  ---   |   ---  |    --- |   ---  |
-| **Navarro Rivera,**<br></br>**Álvaro** | **10** | **10** |   **10**  |  **10**  |  ---   | ---    |  ---   |   ---  |
-| **Sánchez Flores,**<br></br>**Álvaro José** | **10** | **10** |   **10**  |    **10** |   ---  |   ---  |   ---  |   ---  |
-| **Rodríguez Asensio,**<br></br>**Artemio** | **10** | **10** |   **10**  |   **10**  |  ---   |  ---   |  ---   |    --- |
-| **De Bustamante Lucena,**<br></br>**Eduardo** | **10** | **10** |  **10**   |   **10**  |   ---  |   ---  |   ---  |   ---  |
-| **Barroso Barroso,**<br></br>**Fernando** | **10** | **10** |   **10**  |   **10**  |   ---  |  ---   |  ---   |   ---  |
-| **Santiago Martín,**<br></br>**Gonzalo** | **10** | **10** |   **10**  |   **10**  |   ---  |   ---  |   ---  |  ---  |
-| **Pacheco Rodrigues,**<br></br>**Guillermo Alonso** | **10** | **10** |  **10**   |  **10**   |   --- |  ---   |  ---   |  ---   |
-| **Caballero Hernández,**<br></br>**Jaime** | **10** | **10** |   **10**  |   **10**  |   ---  |   ---  |   ---  |   ---  |
-| **Nunes Ruiz,**<br></br>**Javier** | **10** | **10** |   **10**  |   **10**  |   ---  |  ---   |  ---   |   ---  |
-| **Rodríguez Cordero,**<br></br>**Javier** | **10** | **10** |  **10**   |   **10**  |   ---  |   ---  |  ---   |   ---  |
-| **Martínez Cano,**<br></br>**Juan** | **10** | **10** |   **10**  |  **10**   |  ---   |  ---   |   ---  |  ---   |
-| **Roca Rodríguez,**<br></br>**Marco Antonio** | **10** | **10** |   **10**  |   **9**  |   ---  |  ---   |   ---  |   ---  |
-| **Sánchez Naranjo,**<br></br>**Mario** | **10** | **10** |   **10**  |   **10**  |  ---   |   ---  |   ---  |  ---   |
-| **Pablo Martínez Valladares** | **10** | **10** |  **10**   |  **10**   |   ---  |   ---  |   ---  |  ---   |
-| **Total** | **170** | **170** |  **170**   |  **168**  |   ---  |  ---   |  ---   |   ---  |
+| **Vargas Castro,**<br></br>**Francisco José** | **10** | **10** |  **10**   |  **10**  |   **10**  |   ---  |  ---   |  ---   |
+| **Benítez Morales,**<br></br>**Alberto** | **10** | **10** |  **10**   |  **9**   |   **10**   |   ---  |   ---  |   ---  |
+| **Carrera Bernal,**<br></br>**Álvaro** | **10** | **10** |  **10**   |   **10**  |  **10**    |   ---  |    --- |   ---  |
+| **Navarro Rivera,**<br></br>**Álvaro** | **10** | **10** |   **10**  |  **10**  |  **10**    | ---    |  ---   |   ---  |
+| **Sánchez Flores,**<br></br>**Álvaro José** | **10** | **10** |   **10**  |    **10** |   **10**   |   ---  |   ---  |   ---  |
+| **Rodríguez Asensio,**<br></br>**Artemio** | **10** | **10** |   **10**  |   **10**  |  **10**    |  ---   |  ---   |    --- |
+| **De Bustamante Lucena,**<br></br>**Eduardo** | **10** | **10** |  **10**   |   **10**  |   **10**   |   ---  |   ---  |   ---  |
+| **Barroso Barroso,**<br></br>**Fernando** | **10** | **10** |   **10**  |   **10**  |   **10**   |  ---   |  ---   |   ---  |
+| **Santiago Martín,**<br></br>**Gonzalo** | **10** | **10** |   **10**  |   **10**  |   **10**   |   ---  |   ---  |  ---  |
+| **Pacheco Rodrigues,**<br></br>**Guillermo Alonso** | **10** | **10** |  **10**   |  **10**   |  **10**  |  ---   |  ---   |  ---   |
+| **Caballero Hernández,**<br></br>**Jaime** | **10** | **10** |   **10**  |   **10**  |   **10**   |   ---  |   ---  |   ---  |
+| **Nunes Ruiz,**<br></br>**Javier** | **10** | **10** |   **10**  |   **10**  |   **10**   |  ---   |  ---   |   ---  |
+| **Rodríguez Cordero,**<br></br>**Javier** | **10** | **10** |  **10**   |   **10**  |   **10**   |   ---  |  ---   |   ---  |
+| **Martínez Cano,**<br></br>**Juan** | **10** | **10** |   **10**  |  **10**   |  **10**    |  ---   |   ---  |  ---   |
+| **Roca Rodríguez,**<br></br>**Marco Antonio** | **10** | **10** |   **10**  |   **9**  |   **10**   |  ---   |   ---  |   ---  |
+| **Sánchez Naranjo,**<br></br>**Mario** | **10** | **10** |   **10**  |   **10**  |  **10**    |   ---  |   ---  |  ---   |
+| **Pablo Martínez Valladares** | **10** | **10** |  **10**   |  **10**   |   **10**   |   ---  |   ---  |  ---   |
+| **Total** | **170** | **170** |  **170**   |  **168**  |   **170**   |  ---   |  ---   |   ---  |
 
 
 Individual Contribution Summary
@@ -950,3 +950,166 @@ Individual Contribution Summary
 - Guión de las demos
 - Demo, parte de particular
 - Arreglo de bugs
+
+
+### Rodrígues Asensio, Artemio
+
+- Asisitir a clase y realizar la presentación (1º parte)
+- Ensayos individuales de la presentación
+- Guión de la presentación 1º parte + revisión de la 2º
+- Ver las píldoras teóricas
+- Revisión de las tareas del subgrupo 2
+- Cambiar populate de aleatorio a estático
+- Grabar demo de la parte de empresa y empleado (week 12)
+
+### Caballero Hernández, Jaime
+
+- Actualizar gráfica del estado del proyecto
+- Hacer de usuario piloto para Ocial.
+- Ver todas las píldoras teóricas.
+- Presentación semanas W11 y W12.
+- Creación del modelo de segmentación.
+
+### Sánchez Flores, Álvaro
+
+- Actualizar gráfica de estimaciones de costes.
+- Ver píldora teórica.
+- Hacer de usuario piloto para Ocial.
+- Asistir a reunión de sprint planning.
+- Presentaciones de W11 y W12.
+- Aporte a la base de gestión de conocimiento común.
+- Creación del documento de oportunidades de inversión.
+- Actualización de documento de análisis de costes.
+- Revisión de pull requests del subgrupo 1.
+
+### Santiago Martín, Gonzalo
+
+- Ver píldora teórica.
+- Asistir a reunión de planning.
+- Creación y revisión del modelo de segmentación.
+- Asistir a clase.
+- Revisión de las tareas del subgrupo 1.
+- Aplicar el feedback de los usuarios pilotos.
+- Configurar despliegue, actualización y resolución de problemas.
+- Hacer de usuario piloto para Ocial.
+
+### Navarro Rivera, Álvaro
+
+- Creación y editor de presentación semana 11
+- Editor de las DEMO semanas 11 y 12
+- Contacto con usuarios piloto (recogida de feedback, correos,...)
+- Revisor FC
+- Trasladar documentos a MD/Docsaurus
+- Aplicar feedback de usuários piloto
+- Creación primer versión poster del grupo
+
+### Pacheco Rodrigues, Guillermo Alonso
+
+- Ver píldora teórica
+- Asistir a clases
+- Asistir a reunión de Planning
+- Anuncio de inversores
+- Implementar feedback de usuarios piloto
+
+### Carrera Bernal, Álvaro
+
+- Ver píldora teórica.
+- Asistir a clases.
+- Community Manager, gestión de las RRSS.
+- Presentación W12: Calendario de las publicaciones del CM.
+- Tests de vista de catering particular: login/logout, añadir reseña y reservar catering.
+- Test de cargas con Locust.
+- Arreglar fallos en los tests de vista.
+- Presentación W11: Objetivos y acciones del CM.
+- Arreglar errores en vista de reserva de catering.
+
+### Martínez Cano, Juan
+
+- Ver píldora teórica.
+- Asistir a clases.
+- Ayuda al Community Manager.
+- Realización de la presentación W12 y W11
+- Tests de vista de catering particular: login/logout, añadir reseña y reservar catering.
+- Test de cargas con Locust.
+- Arreglar fallos en los tests de vista.
+- Arreglar errores en vista de reserva de catering.
+
+### Bustamante Lucena, Eduardo
+
+- Ver píldora teórica.
+- Asistir a clases.
+- Locust Test.
+- Diseño del Flyer de BanquetBuddy.
+- Diseño del advertising poster
+- Redacción del social media goals and objectives del documento community management.
+- Arreglar fallos en tests visuales.
+
+### Rodríguez Cordero, Javier
+
+- Asistir a las clases teóricas.
+- Realización de la presentación de la W12.
+- Test de cargas con Locust.
+- Test de vistas con Selenium.
+- Arreglar fallos en los tests.
+- Arreglar errores en vista de reserva.
+- Ver píldora teórica.
+
+### Martínez Valladares, Pablo
+
+- Asistir a clase.
+- Ver píldoras teóricas
+- Revisión de tareas del subgrupo 2
+- Implementar feedback de usuarios pilotos
+
+### Roca Rodríguez, Marco Antonio
+
+- Asistir a las clases.
+- Ver píldoras teóricas.
+- Revisión tareas subgrupo 3
+- Documento de campaña de lanzamiento
+- Documento de crecimiento y gestión de la comunidad
+- Implementar feedback de los usuarios piloto (empleados)
+- Reunión de planificación W12
+- Resolución de conflictos
+- Presentación W11 y W12
+
+### Sánchez Naranjo, Mario
+
+- Revisión de pull requests de feedback de empleado,plan de precio para particulares
+- Preparar Entrega+Trasladar documentación a docusaurus
+- Actualización de Software Review Guidelines
+- Recolección de feedback en clase
+- Ayuda en preparar diapositivas de presentación
+- Análisis de optimización del SEO
+- Tests visuales para cancelación de plan de precios,gestión de platos y menús y registro de usuarios
+
+### Barroso Barroso, Fernando
+
+- Ver píldora teórica.
+- Asistir a clases.
+- Hacer de usuario piloto para Ocial.
+- Asistir a reunión de sprint planning W11.
+- Presentación de W11.
+- Creación del documento de oportunidades de inversión
+- Test visuales para el filtrado de caterings por parte de un particular.
+- Corrección de tests que fallaban en la rama develop y del workflow del Actions.
+
+### Benítez Morales, Alberto
+
+- Píldoras teóricas.
+- Clases.
+- Reunión de sprint planning W11.
+- Presentación de W11.
+- Documento crecimiento en redes
+- Documento campaña de lanzamiento
+- Plan de precio particular.
+- Implementación feedback empleados
+
+### Nunes Ruiz, Javier
+
+- Ver píldoras teóricas.
+- Asistir a clases de teoría.
+- Documento de reporte de tiempos actualizado cada semana con sus respectivas gráficas y asignación de cada una de las etiquetas de tipos de tareas.
+- Mejora y unificación del resto de estilos de la aplicación.
+- Creación y personalización del canal YouTube, publicación vídeo y código para mostrarlo en la app.
+- Arreglo estilos responsivos.
