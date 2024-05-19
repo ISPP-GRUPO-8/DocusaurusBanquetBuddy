@@ -83,7 +83,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'World project Launch',
-      items: ['World Project Launch/PerformanceEvaluation',
+      items: ['World Project Launch/PerformanceEvaluation','World Project Launch/report'
       ],
     },
 
