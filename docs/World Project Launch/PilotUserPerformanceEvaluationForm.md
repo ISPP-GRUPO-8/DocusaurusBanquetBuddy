@@ -10,9 +10,9 @@ sidebar_position: 3
 
 | **Factor** | **#S1** | **#S2** | **#S3** | **#PPL** | **#WPL** |
 | --- | --- | --- | --- | --- | --- |
-| **Punctuality** | **\-** | **10** |  **10**   |  **10**    |  **10**   |
-| **Feedback validity** | **\-** | **10** |  **10**   |  **10**    |  **10**   |
-| **Feedback amount** | **\-** | **10** |  **10**    |   **10**   |  **10**   |
-| **Clarity of feedback** | **\-** | **10** |   **10**   |   **10**   |  **10**   |
+| **Punctuality** | **\-** | **10** |  **10**   |  **10**    |  -   |
+| **Feedback validity** | **\-** | **10** |  **10**   |  **10**    |  -   |
+| **Feedback amount** | **\-** | **10** |  **10**    |   **10**   |  -   |
+| **Clarity of feedback** | **\-** | **10** |   **10**   |   **10**   |  -   |
 
 **Please, score from 1 to 10 each factor in each development cycle of your product**
