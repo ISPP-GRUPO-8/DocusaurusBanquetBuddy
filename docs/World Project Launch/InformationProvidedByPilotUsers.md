@@ -1,4 +1,4 @@
-FeedBack de los usuarios PPL
+FeedBack de los usuarios WPL
 
 Despliegue: el día 16/05.
 
