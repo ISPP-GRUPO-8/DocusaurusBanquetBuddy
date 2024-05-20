@@ -8,7 +8,7 @@ Version: 5.0
 Universidad de Sevilla  
 Escuela Técnica Superior de Ingeniería Informática
 
-Preparing Project Launch
+World Project Launch
 
 BanquetBuddy
 
@@ -48,6 +48,7 @@ Curso 2023 – 2024
 | 30/03/2024 | 3.0 | Actualización del documento para el Sprint 2 |
 | 19/04/2024 | 4.0 | Actualización del documento para el Sprint 3 |
 | 19/04/2024 | 5.0 | Actualización del documento para el Preparing Project Launch|
+| 19/04/2024 | 6.0 | Actualización del documento para el World Project Launch|
 
 Agreed Individual Performance Evaluation
 
@@ -55,24 +56,24 @@ Date: \_**\_04/03/2024_\_**
 
 | **Student** | **#DP1** | **#S1** | **#S2** | **#S3** | **#PPL** | **#WPL** | **Total** | **Weight** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Vargas Castro,**<br></br>**Francisco José** | **10** | **10** |  **10**   |  **10**  |   **10**  |   ---  |  ---   |  ---   |
-| **Benítez Morales,**<br></br>**Alberto** | **10** | **10** |  **10**   |  **9**   |   **10**   |   ---  |   ---  |   ---  |
-| **Carrera Bernal,**<br></br>**Álvaro** | **10** | **10** |  **10**   |   **10**  |  **10**    |   ---  |    --- |   ---  |
-| **Navarro Rivera,**<br></br>**Álvaro** | **10** | **10** |   **10**  |  **10**  |  **10**    | ---    |  ---   |   ---  |
-| **Sánchez Flores,**<br></br>**Álvaro José** | **10** | **10** |   **10**  |    **10** |   **10**   |   ---  |   ---  |   ---  |
-| **Rodríguez Asensio,**<br></br>**Artemio** | **10** | **10** |   **10**  |   **10**  |  **10**    |  ---   |  ---   |    --- |
-| **De Bustamante Lucena,**<br></br>**Eduardo** | **10** | **10** |  **10**   |   **10**  |   **10**   |   ---  |   ---  |   ---  |
-| **Barroso Barroso,**<br></br>**Fernando** | **10** | **10** |   **10**  |   **10**  |   **10**   |  ---   |  ---   |   ---  |
-| **Santiago Martín,**<br></br>**Gonzalo** | **10** | **10** |   **10**  |   **10**  |   **10**   |   ---  |   ---  |  ---  |
-| **Pacheco Rodrigues,**<br></br>**Guillermo Alonso** | **10** | **10** |  **10**   |  **10**   |  **10**  |  ---   |  ---   |  ---   |
-| **Caballero Hernández,**<br></br>**Jaime** | **10** | **10** |   **10**  |   **10**  |   **10**   |   ---  |   ---  |   ---  |
-| **Nunes Ruiz,**<br></br>**Javier** | **10** | **10** |   **10**  |   **10**  |   **10**   |  ---   |  ---   |   ---  |
-| **Rodríguez Cordero,**<br></br>**Javier** | **10** | **10** |  **10**   |   **10**  |   **10**   |   ---  |  ---   |   ---  |
-| **Martínez Cano,**<br></br>**Juan** | **10** | **10** |   **10**  |  **10**   |  **10**    |  ---   |   ---  |  ---   |
-| **Roca Rodríguez,**<br></br>**Marco Antonio** | **10** | **10** |   **10**  |   **9**  |   **10**   |  ---   |   ---  |   ---  |
-| **Sánchez Naranjo,**<br></br>**Mario** | **10** | **10** |   **10**  |   **10**  |  **10**    |   ---  |   ---  |  ---   |
-| **Pablo Martínez Valladares** | **10** | **10** |  **10**   |  **10**   |   **10**   |   ---  |   ---  |  ---   |
-| **Total** | **170** | **170** |  **170**   |  **168**  |   **170**   |  ---   |  ---   |   ---  |
+| **Vargas Castro,**<br></br>**Francisco José** | **10** | **10** |  **10**   |  **10**  |   **10**  |   **10** |  **60**   |  **1**   |
+| **Benítez Morales,**<br></br>**Alberto** | **10** | **10** |  **10**   |  **9**   |   **10**   |   **10**  |   **59**  |   **0,98**  |
+| **Carrera Bernal,**<br></br>**Álvaro** | **10** | **10** |  **10**   |   **10**  |  **10**    |   **10**  |    **60** |   **1**  |
+| **Navarro Rivera,**<br></br>**Álvaro** | **10** | **10** |   **10**  |  **10**  |  **10**    | **10**    |  **60**   |   **1**  |
+| **Sánchez Flores,**<br></br>**Álvaro José** | **10** | **10** |   **10**  |    **10** |   **10**   |   **10**  |   **60**  |   **1**  |
+| **Rodríguez Asensio,**<br></br>**Artemio** | **10** | **10** |   **10**  |   **10**  |  **10**    |  **10**   |  **60**   |    **1** |
+| **De Bustamante Lucena,**<br></br>**Eduardo** | **10** | **10** |  **10**   |   **10**  |   **10**   |   **10**  |   **60**  |   **1**  |
+| **Barroso Barroso,**<br></br>**Fernando** | **10** | **10** |   **10**  |   **10**  |   **10**   |  **10**  |  **60**   |   **1**  |
+| **Santiago Martín,**<br></br>**Gonzalo** | **10** | **10** |   **10**  |   **10**  |   **10**   |   **10**  |   **60**  |  **1**  |
+| **Pacheco Rodrigues,**<br></br>**Guillermo Alonso** | **10** | **10** |  **10**   |  **10**   |  **10**  |  **10**   |  **60**   |  **1**   |
+| **Caballero Hernández,**<br></br>**Jaime** | **10** | **10** |   **10**  |   **10**  |   **10**   |   **10**  |   **60**  |   **1**  |
+| **Nunes Ruiz,**<br></br>**Javier** | **10** | **10** |   **10**  |   **10**  |   **10**   |  **10**   |  **60**|   **1**  |
+| **Rodríguez Cordero,**<br></br>**Javier** | **10** | **10** |  **10**   |   **10**  |   **10**   |   **10**  |  **60**   |   **1**  |
+| **Martínez Cano,**<br></br>**Juan** | **10** | **10** |   **10**  |  **10**   |  **10**    |  **10**   |   **60**  |  **1**   |
+| **Roca Rodríguez,**<br></br>**Marco Antonio** | **10** | **10** |   **10**  |   **9**  |   **10**   |  **10**   |   **59**  |   **0,98**  |
+| **Sánchez Naranjo,**<br></br>**Mario** | **10** | **10** |   **10**  |   **10**  |  **10**    |   **10**  |   **60**  |  **1**   |
+| **Pablo Martínez Valladares** | **10** | **10** |  **10**   |  **10**   |   **10**   |   **10**  |   **60**  |  **1**   |
+| **Total** | **170** | **170** |  **170**   |  **168**  |   **170**   |  **170**   |   ---  |   ---  |
 
 
 Individual Contribution Summary
@@ -1122,3 +1123,122 @@ Individual Contribution Summary
 - Revisión presentación
 - Presentacion en clase
 - Revisión hotspots
+
+### Rodrígues Asensio, Artemio
+
+- Revisión del guión de la presentación WPL
+- Ensayos individuales de la presentación WPL
+- Ensayo grupal de la presentación WPL
+- Realizar la presentación WPL
+- Revisión de las tareas de otros compañeros
+- Arreglar algunos bugs menores en el módulo de catering company
+- Expected aspects review
+- Pruebas en el salón de grados antes de la presentación
+
+### Pacheco Rodrigues, Guillermo Alonso
+
+- Asistir a clase
+- Asistir a sesión de retrospectiva
+- Mejora de anuncio para clientes
+- Mejora de anuncio para inversores
+
+### Sánchez Flores, Álvaro
+
+- Hacer de usuario piloto para Ocial.
+- Asistir a sesión de retrospectiva.
+- Presentación de WPL.
+- Aporte a la base de gestión de conocimiento común.
+- Actualización de documento de análisis de costes.
+
+### Caballero Hernández, Jaime
+
+- Hacer de usuario piloto para Ocial.
+- Asistir a clase.
+- Asistir a sesión de retrospectiva.
+- Presentación de WPL.
+- Actualización de documento de análisis de costes.
+
+### Santiago Martín, Gonzalo
+
+- Asistir a clase.
+- Asistir a sesión de retrospectiva.
+- Arreglar algunos bugs de catering particular.
+- Despliegue de la aplicación en PythonAnywhere.
+
+### Martínez Cano, Juan
+
+- Asistir a clase
+- Asistir a sesión de retrospectiva
+- Ayuda al community manager
+- Realización de la presentación WPL
+- Revisión de tareas de compañeros
+
+### Rodríguez Cordero, Javier
+
+- Realización de la presentación WPL
+- Asistir a sesión de retrospectiva
+- Revisión de tareas de compañeros
+- Asistir a clase
+- Ayuda al community manager
+
+### Carrera Bernal, Álvaro
+
+- Organización y creación de contenido para las redes sociales como community manager.
+- Asistir a sesión de retrospectiva.
+- Asistir a clase.
+- Realización de la presentación WPL.
+
+### Bustamante Lucena, Eduardo
+
+- Asistir a sesión de retrospectiva.
+- Asistir a clase.
+- Ayuda al community manager.
+
+### Navarro Rivera, Álvaro
+
+- Revisión y ayuda con planes para particulares.
+- Revisión PR arreglo de bugs y restricciones
+- Revisión FC
+- Entrega y pasar documentos a docusaurus.
+- Gestión de usuarios piloto.
+
+### Sánchez Naranjo, Mario
+
+- Tests de vista del subgrupo 3 corregidos
+- Preparar entrega
+- Revisión FC
+- Software review guidelines
+
+### Martínez Valladares, Pablo
+
+- Revisión de la aplicación en busca de errores
+- Asistir a clase.
+- Asistir a sesión de retrospectiva
+- Revisión tarea del subgrupo 2: fix responsive styles
+- Asistir a reunión de coordinadores
+
+### Barroso Barroso, Fernando
+
+- Hacer de usuario piloto para la aplicación Ocial.
+- Asistir a sesión de retrospectiva.
+- Añadir validaciones y alertas al crear un servicio, por parte de los dueños de caterings.
+- Corrección de tests para el workflow del actions.
+
+### Roca Rodríguez, Marco Antonio
+
+- Asistir a sesión de retrospectiva.
+- Asistir a clase.
+
+### Nunes Ruiz, Javier
+
+- Asistir a sesión de retrospectiva.
+- Realización de mi parte de la presentación de retrospectiva.
+- Documento de reporte de tiempos actualizado cada semana con sus respectivas gráficas y asignación de cada una de las etiquetas de tipos de tareas.
+- Arreglo de estilos responsivos encontrados y reportados.
+
+### Benítez Morales, Alberto
+
+- Asistir a sesión de retrospectiva.
+- Asistir a clase.
+- Fix plan de precio particulares.
+- Reunión coordinadores.
