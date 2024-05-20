@@ -75,22 +75,25 @@ const sidebars = {
       label: 'Preparing Project Launch',
       items: ['Preparing Project Launch/PerformanceEvaluation', 'Preparing Project Launch/ModelSegmentation', 'Preparing Project Launch/Cost-analysis',
         'Preparing Project Launch/InvestmentOpportunities', 'Preparing Project Launch/SEOoptimization', 'Preparing Project Launch/pilots', 'Preparing Project Launch/pilotUsersCommitmentAgreementMorningGroup', 'Preparing Project Launch/pilotUsersCommitmentAgreementExternal',
-        'Preparing Project Launch/InformationProvidedByPilotUsers', 'Preparing Project Launch/PilotUserPerformanceEvaluationForm', 'Preparing Project Launch/report', 'Preparing Project Launch/revision','Preparing Project Launch/AI-usage','Preparing Project Launch/Presentacion'
-        ,'Preparing Project Launch/PerformanceMetrics','Preparing Project Launch/Time-effort-report'
+        'Preparing Project Launch/InformationProvidedByPilotUsers', 'Preparing Project Launch/PilotUserPerformanceEvaluationForm', 'Preparing Project Launch/report', 'Preparing Project Launch/revision', 'Preparing Project Launch/AI-usage', 'Preparing Project Launch/Presentacion'
+        , 'Preparing Project Launch/PerformanceMetrics', 'Preparing Project Launch/Time-effort-report'
 
       ],
     },
     {
       type: 'category',
       label: 'World project Launch',
-      items: ['World Project Launch/PerformanceEvaluation','World Project Launch/report'
+      items: ['World Project Launch/PerformanceEvaluation', 'World Project Launch/report', 'World Project Launch/pilots',
+        'World Project Launch/pilotUsersCommitmentAgreementMorningGroup', 'World Project Launch/pilotUsersCommitmentAgreementExternal',
+        'World Project Launch/InformationProvidedByPilotUsers', 'World Project Launch/PilotUserPerformanceEvaluationForm',
+        'World Project Launch/revision', 'World Project Launch/AI-usage'
       ],
     },
 
     {
       type: 'category',
       label: 'Actas de reuniones',
-      items: ['actas/02-02-2024', 'actas/15-02-2024', 'actas/18-02-2024', 'actas/21-02-2024', 'actas/01-04-2024Retrospectiva', 'actas/01-04-2024Review','actas/22-04-2024'],
+      items: ['actas/02-02-2024', 'actas/15-02-2024', 'actas/18-02-2024', 'actas/21-02-2024', 'actas/01-04-2024Retrospectiva', 'actas/01-04-2024Review', 'actas/22-04-2024'],
 
     },
 
