@@ -663,7 +663,7 @@ A continuación se desplegará una pantalla de chat donde se podrá preguntar al
 ### <a name="_jhxs5pybp2vq"></a>**Requisitos potenciales para usar el sistema**
 En caso de que necesite hacer cualquier pago dentro del sistema,una tarjeta de crédito que usted pueda usar es:4242 4242 4242 4242,y en lo demás puede poner cualquier cosa(tenga en cuenta que tiene que poner fecha de caducidad posterior al día actual)
 ### <a name="_6eq1dnqi35fc"></a>**Link a la demo**
-[link](https://drive.google.com/file/d/1a8i5ia_9cdK4Rl1eRLPib8vyNieJnLeA/view?usp=drive_link)
+[link](https://github.com/ISPP-GRUPO-8/BANQUETBUDDY/blob/main/docs/WPL/DEMO.mp4)
 
 ### <a name="_lhximwycsb56"></a>**Evaluación de Usabilidad**
 Bajo nuestro punto de vista la aplicación se puede usar de forma fácil e intuitiva. Aun así, hay aspectos que no no están todo lo bien que nos gustaría, pero somos conscientes y tenemos previsto mejorar todo lo posible la web en el tercer sprint.

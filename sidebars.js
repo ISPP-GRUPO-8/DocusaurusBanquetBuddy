@@ -86,7 +86,7 @@ const sidebars = {
       items: ['World Project Launch/PerformanceEvaluation', 'World Project Launch/report', 'World Project Launch/pilots',
         'World Project Launch/pilotUsersCommitmentAgreementMorningGroup', 'World Project Launch/pilotUsersCommitmentAgreementExternal',
         'World Project Launch/InformationProvidedByPilotUsers', 'World Project Launch/PilotUserPerformanceEvaluationForm',
-        'World Project Launch/revision', 'World Project Launch/AI-usage'
+        'World Project Launch/revision', 'World Project Launch/AI-usage', 'World Project Launch/Time-effort-report', 'World Project Launch/Presentacion'
       ],
     },
 
